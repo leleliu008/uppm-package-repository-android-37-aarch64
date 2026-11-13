@@ -51,13 +51,11 @@ jobs:
 
               PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
-              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
-
               cat > "$PACKAGE_NAME.yml" <<EOF
           summary: $PACKAGE_SUMMARY
           webpage: $PACKAGE_WEB_URL
           version: $PACKAGE_VERSION
-          bin-url: $PACKAGE_BIN_URL
+          bin-url: $PACKAGE_FILENAME
           bin-sha: $PACKAGE_BIN_SHA
           EOF
           done
@@ -108,13 +106,11 @@ jobs:
 
               PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
-              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
-
               cat > "$PACKAGE_NAME.yml" <<EOF
           summary: $PACKAGE_SUMMARY
           webpage: $PACKAGE_WEB_URL
           version: $PACKAGE_VERSION
-          bin-url: $PACKAGE_BIN_URL
+          bin-url: $PACKAGE_FILENAME
           bin-sha: $PACKAGE_BIN_SHA
           EOF
           done
@@ -165,13 +161,11 @@ jobs:
 
               PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
-              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
-
               cat > "$PACKAGE_NAME.yml" <<EOF
           summary: $PACKAGE_SUMMARY
           webpage: $PACKAGE_WEB_URL
           version: $PACKAGE_VERSION
-          bin-url: $PACKAGE_BIN_URL
+          bin-url: $PACKAGE_FILENAME
           bin-sha: $PACKAGE_BIN_SHA
           EOF
           done
@@ -222,13 +216,11 @@ jobs:
 
               PACKAGE_BIN_SHA="$(sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
 
-              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
-
               cat > "$PACKAGE_NAME.yml" <<EOF
           summary: $PACKAGE_SUMMARY
           webpage: $PACKAGE_WEB_URL
           version: $PACKAGE_VERSION
-          bin-url: $PACKAGE_BIN_URL
+          bin-url: $PACKAGE_FILENAME
           bin-sha: $PACKAGE_BIN_SHA
           EOF
           done
@@ -259,37 +251,47 @@ jobs:
 
       - run: ls
 
-      - id: tagname
+      - id: ts
         run: |
-          TAGNAME="$(date +%Y.%m.%d)"
-          printf 'TAGNAME=%s\n' "$TAGNAME" >> "$GITHUB_OUTPUT"
+          TS="$(date +%Y.%m.%d)"
+          printf 'TS=%s\n' "$TS" >> "$GITHUB_OUTPUT"
 
-      - run: sed -i 's|@TAGNAME@|${{ steps.tagname.outputs.TAGNAME }}|' *.yml
+      - run: |
+          set -ex
+
+          I=0
+          J=0
+          K=1
+
+          for f in *.yml
+          do
+            I="$(($I + 1))"
+
+            if [ "$I" -eq "$K" ] ; then
+                J="$(($J + 1))"
+                K="$(($K + 1000))"
+
+                TAGNAME="${{ steps.ts.outputs.TS }}.$J"
+
+                gh release create "$TAGNAME" --title "$TAGNAME" --notes 'These packages are created using [ndk-pkg](https://github.com/leleliu008/ndk-pkg)'
+            fi
+
+            TARBALL_FILENAME="$(sed -n '/bin-url: /p' "$f" | cut -c10-)"
+            TARBALL_URL="https://github.com/${{ github.repository }}/releases/download/$TAGNAME/$TARBALL_FILENAME"
+
+            sed -i "/bin-url: /c bin-url: $TARBALL_URL" "$f"
+
+            sleep 1s
+
+            gh release upload "$TAGNAME" "$TARBALL_FILENAME"
+          done
 
       - run: mv *.yml formula/
-
-      - run: |
-          DIRNAME="uppm-formula-repository-android-37-aarch64-${{ steps.tagname.outputs.TAGNAME }}"
-
-          install -d "$DIRNAME"
-
-          cp -r formula "$DIRNAME/"
-
-          tar cvJf "$DIRNAME.tar.xz" "$DIRNAME"
-
-      - run: |
-          gh release create ${{ steps.tagname.outputs.TAGNAME }} --title ${{ steps.tagname.outputs.TAGNAME }} --notes 'These packages are created using [ndk-pkg](https://github.com/leleliu008/ndk-pkg)'
-
-          for f in *.tar.xz
-          do
-            sleep 1s
-            gh release upload ${{ steps.tagname.outputs.TAGNAME }} "$f"
-          done
 
       - run: git config --global user.name  leleliu008
       - run: git config --global user.email leleliu008@gmail.com
 
       - run: git pull
       - run: git add formula
-      - run: git commit -m 'release version ${{ steps.tagname.outputs.TAGNAME }}'
+      - run: git commit -m 'release version ${{ steps.ts.outputs.TS }}'
       - run: git push origin master
