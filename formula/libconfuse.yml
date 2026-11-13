@@ -1,0 +1,5 @@
+summary: A small configuration file parser library written in C
+webpage: https://www.nongnu.org/confuse/manual/
+version: 3.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libconfuse-3.4-android-37-arm64-v8a.release.tar.xz
+bin-sha: 748efee06cd47d5f402b90299d8894f2beacec173032a60cd9ddcc8f7ed7f7c2

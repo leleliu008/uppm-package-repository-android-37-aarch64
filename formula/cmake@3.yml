@@ -1,0 +1,5 @@
+summary: Cross-platform make
+webpage: https://www.cmake.org/
+version: 3.31.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/cmake-3.31.12-android-37-arm64-v8a.release.tar.xz
+bin-sha: f3a96e73a4a5ca858d406834b79c139352ed4483d968c23133e4fa7a76c02089

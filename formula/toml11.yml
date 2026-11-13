@@ -1,0 +1,5 @@
+summary: A header-only C++11 (or later) library for parsing TOML
+webpage: https://github.com/ToruNiina/toml11
+version: 4.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/toml11-4.4.0-android-aarch64.release.tar.xz
+bin-sha: 2f4753a51cc08d57a8ac24242e27f5d461835d8f246235bae42662c5633badd1

@@ -1,0 +1,5 @@
+summary: A simple terminal UI for git commands
+webpage: https://github.com/jesseduffield/lazygit
+version: 0.66.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/lazygit-0.66.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: 424febf8b69ef3762eadc0df58d125d53a81e2a85e08c81ea9312b087e2bac33

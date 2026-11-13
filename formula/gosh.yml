@@ -1,0 +1,5 @@
+summary: A shell parser, formatter, and interpreter with bash support written in golang
+webpage: https://github.com/mvdan/sh
+version: 3.14.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/gosh-3.14.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: a693b160aa0c2bc5ef46f82aba596fd45c0993f79e6b82817643c1c7264e0e53

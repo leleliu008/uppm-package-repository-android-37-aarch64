@@ -1,0 +1,5 @@
+summary: A command-line utility for converting text from one encoding to another
+webpage: https://www.gnu.org/software/libiconv
+version: 1.19.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/iconv-1.19.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 53dcb4c5e29929af453ed99dd1a19b97979854d4e222bd27d4124f7ebc999de5

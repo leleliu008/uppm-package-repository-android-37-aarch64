@@ -1,0 +1,5 @@
+summary: Modern and pretty fancy file manager for the terminal
+webpage: https://github.com/yorukot/superfile
+version: 1.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/superfile-1.6.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 99dfd86a12afb98d8f3e9a0c60fa889888b25e2663f3302fc4a2a84129e74ce5

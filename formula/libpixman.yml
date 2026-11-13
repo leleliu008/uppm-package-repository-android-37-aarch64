@@ -1,0 +1,5 @@
+summary: A low-level library for pixel manipulation
+webpage: https://cairographics.org/
+version: 0.46.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libpixman-0.46.4-android-37-arm64-v8a.release.tar.xz
+bin-sha: fec81557c3cb90cdb6fb19692a767733d7b4dd5a4cdf34d4703b0197f5b3a983

@@ -1,0 +1,5 @@
+summary: Open source, general-purpose policy engine
+webpage: https://www.openpolicyagent.org
+version: 1.22.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/opa-1.22.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: c6f88e39fa1b287b7c28c70c5faa5eda9d4ac58cce2dd007235d4c20d50bbf0d

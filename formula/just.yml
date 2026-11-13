@@ -1,0 +1,5 @@
+summary: A handy way to save and run project-specific commands
+webpage: https://github.com/casey/just
+version: 1.59.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/just-1.59.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 23e8b6206240bc6c0cd83d4dc78b4eb13badd9850c4a129db5623b9e37d90ba2

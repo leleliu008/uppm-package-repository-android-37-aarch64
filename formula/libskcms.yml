@@ -1,0 +1,5 @@
+summary: Skia Color Management System
+webpage: https://skia.googlesource.com/skcms
+version: 16
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libskcms-16-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1c86306dce43878c1c0fbeec93d343865deb9a2a6b97438fe1fd066d997f31bb

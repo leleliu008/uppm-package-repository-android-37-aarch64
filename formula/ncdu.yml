@@ -1,0 +1,5 @@
+summary: A disk usage analyzer with an ncurses interface
+webpage: https://dev.yorhel.nl/ncdu
+version: 1.23.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/ncdu-1.23.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6990e7ff4b572aaa3dc93de700c08393b36bf7e1c921e7404343e945e74af1ec

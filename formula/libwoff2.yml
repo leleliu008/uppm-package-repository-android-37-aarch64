@@ -1,0 +1,5 @@
+summary: Utilities to create and convert Web Open Font File (WOFF) files
+webpage: https://github.com/google/woff2
+version: 1.0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libwoff2-1.0.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: c6130a7f3f3ceafc2066acc35cc28821fcb25695227e88f9dcde508883404a84

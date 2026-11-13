@@ -1,0 +1,5 @@
+summary: Rust task runner and build tool
+webpage: https://github.com/sagiegurari/cargo-make
+version: 0.37.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/cargo-make-0.37.24-android-37-arm64-v8a.release.tar.xz
+bin-sha: ceec774bb26fcfe3bb0ee9613a08bef07a03a3d11e21a583cfba21d270b6ca5b

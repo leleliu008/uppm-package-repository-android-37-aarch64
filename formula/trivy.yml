@@ -1,0 +1,5 @@
+summary: Vulnerability scanner for container images, file systems, and Git repos
+webpage: https://trivy.dev/
+version: 0.76.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/trivy-0.76.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 8158a647cc34b61d7402a44d2497f6b27515e32f3e71799b20652febe42da887

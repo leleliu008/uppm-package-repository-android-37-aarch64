@@ -1,0 +1,5 @@
+summary: A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
+webpage: https://github.com/emersion/hydroxide
+version: 0.2.32
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/hydroxide-0.2.32-android-37-arm64-v8a.release.tar.xz
+bin-sha: 0a2dc0581d9bd5d6f7e9220b6bec77d849e891dce38268f5cdcc8ab27dc09e1b

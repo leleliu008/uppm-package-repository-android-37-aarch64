@@ -1,0 +1,5 @@
+summary: A command-line tool to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.48
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/file-5.48-android-37-arm64-v8a.release.tar.xz
+bin-sha: 9e446292944232d0c022ad098d559d5938c5dca76992323ad0bc279a58c2f7b9

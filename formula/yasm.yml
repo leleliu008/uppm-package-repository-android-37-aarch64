@@ -1,0 +1,5 @@
+summary: Yet another assembler, a complete reimplementation of NASM
+webpage: https://yasm.tortall.net
+version: 1.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/yasm-1.3.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2eb9a137ce99da1937150f89ced3967264c6535cc855330102f208a289ddb649

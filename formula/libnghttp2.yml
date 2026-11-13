@@ -1,0 +1,5 @@
+summary: HTTP/2 C Library
+webpage: https://nghttp2.org/
+version: 1.71.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libnghttp2-1.71.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 96f2e8442097b6f7aaf7ff784dd88271f3abf94f66628ce90278308b2a4810f0

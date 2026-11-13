@@ -1,0 +1,5 @@
+summary: A small library for rendering Postscript documents
+webpage: https://wiki.freedesktop.org/www/Software/libspectre/
+version: 0.2.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libspectre-0.2.12-android-37-arm64-v8a.release.tar.xz
+bin-sha: e07ad86122c3c5f701a4c9fe85fd5af4e0fb098123f2945c1aa7d52aaf76fd80

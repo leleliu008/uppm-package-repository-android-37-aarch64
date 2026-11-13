@@ -1,0 +1,5 @@
+summary: C library for high-throughput sequencing data formats
+webpage: https://www.htslib.org/
+version: 1.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/htslib-1.25-android-37-arm64-v8a.release.tar.xz
+bin-sha: 58387ddeccd7e898f409ff0f16b6f9a282914f32ef108414ecf3ad8eb76d9e00

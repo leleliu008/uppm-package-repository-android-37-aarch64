@@ -1,0 +1,5 @@
+summary: A package of several programs related to finding files
+webpage: https://www.gnu.org/software/findutils
+version: 4.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/findutils-4.11.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: f79c0f3a5da56160e6a75c3c66b294d8f9d2549a2002fc84c3082b3e8442d65f

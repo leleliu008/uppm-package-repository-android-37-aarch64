@@ -1,0 +1,5 @@
+summary: Kubernetes package manager
+webpage: https://helm.sh/
+version: 4.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/helm-4.3.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 9eade41b456bb2a60eaa4350a1a2a415c0914d28684fef3325c84a76e4f68d29

@@ -1,0 +1,5 @@
+summary: Standalone JIT-style runtime for WebAssembly, using Cranelift
+webpage: https://wasmtime.dev/
+version: 50.0.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/wasmtime-50.0.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: cbad5016a88a466cedf4c23b9fb1f1bd7827d102db0fd2bbefc9466a5847deea

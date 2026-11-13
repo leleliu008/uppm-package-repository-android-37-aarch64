@@ -1,0 +1,5 @@
+summary: BSD-style licensed readline alternative
+webpage: https://thrysoee.dk/editline
+version: 3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libedit-3.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: fbd60d4555e54505b636f20340388afa40d709af544b1813aeaab63c83f6d013

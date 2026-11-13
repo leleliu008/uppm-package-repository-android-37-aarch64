@@ -1,0 +1,5 @@
+summary: DCE compatible Universally Unique Identifier library
+webpage: https://mirrors.edge.kernel.org/
+version: 2.40.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libmount-2.40.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6591318774014c095220f73466c2c88ebab84dba09ec4d35db0c4926693059e8

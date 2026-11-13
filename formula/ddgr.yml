@@ -1,0 +1,5 @@
+summary: DuckDuckGo from the terminal
+webpage: https://github.com/jarun/ddgr
+version: 2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/ddgr-2.2-android-aarch64.release.tar.xz
+bin-sha: cfbf87285fc254d622fc29c7db4e3383d4bd9a3225e3e3af0ba2c411b1cf9e99

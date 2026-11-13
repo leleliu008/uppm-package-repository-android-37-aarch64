@@ -1,0 +1,5 @@
+summary: A flexible, lightweight pure C library for implementing modern network protocols easily with a tiny footprint, using a nonblocking event loop
+webpage: https://libwebsockets.org/
+version: 5.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libwebsockets-5.1.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: bd5253fc31c39fd0123bc2db8ee9f5e1c0bd81e2ef884bff7135a4e24726b59c

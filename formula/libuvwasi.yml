@@ -1,0 +1,5 @@
+summary: WASI syscall API built atop libuv
+webpage: https://github.com/nodejs/uvwasi
+version: 0.0.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libuvwasi-0.0.23-android-37-arm64-v8a.release.tar.xz
+bin-sha: 428d3d2cbae5c58a4f196585fe62ea5191b63e01507db74b2646b14da389ea0d

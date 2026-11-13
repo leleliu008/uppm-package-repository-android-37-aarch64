@@ -1,0 +1,5 @@
+summary: A highly customizable Changelog Generator that follows Conventional Commit specifications
+webpage: https://github.com/orhun/git-cliff
+version: 2.14.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/git-cliff-2.14.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: b0c9de5466df3127f0cbec880f73328b49a2ee9e32eaef357027a1b519528e68

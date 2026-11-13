@@ -1,0 +1,5 @@
+summary: A command-line tool to rcord, share and export your terminal as a animated SVG image
+webpage: https://github.com/MrMarble/termsvg
+version: 0.13.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/termsvg-0.13.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 27094864b5e14417b14820e035b4cec78897e553d0d4ac3f5c2a312efcce0d10

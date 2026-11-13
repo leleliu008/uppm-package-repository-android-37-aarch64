@@ -1,0 +1,5 @@
+summary: A modern Git CLI
+webpage: https://github.com/chriswalz/bit
+version: 1.1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/bit-1.1.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6803337804f9338a5b54d2a27f4f4ab25dc523304a16b7cbe946f87a8c893fe8

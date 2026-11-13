@@ -1,0 +1,5 @@
+summary: ODBC 3 connectivity for UNIX
+webpage: https://www.unixodbc.org/
+version: 2.3.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/unixodbc-2.3.14-android-37-arm64-v8a.release.tar.xz
+bin-sha: bfecd442697bb6c02a9e45f2bb840cffa7b6063f057fd48c24901c167f885a9a

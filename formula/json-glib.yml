@@ -1,0 +1,5 @@
+summary: Library for JSON, based on GLib
+webpage: https://gitlab.gnome.org/GNOME/json-glib
+version: 1.10.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/json-glib-1.10.8-android-37-arm64-v8a.release.tar.xz
+bin-sha: cfe3fd0e99436425b3cc550ecf6fe47f0a2b5e9cc420d51689b86cd210c07b36

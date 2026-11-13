@@ -1,0 +1,5 @@
+summary: A fast and config-free text editor and IDE limited by VT100
+webpage: https://roboticoverlords.org/orbiton/
+version: 2.74.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/orbiton-2.74.6-android-37-arm64-v8a.release.tar.xz
+bin-sha: f397d1e7df29f620b1dfcbe200449c461b91a5ef1e31e66e53c3c55c67747ee3

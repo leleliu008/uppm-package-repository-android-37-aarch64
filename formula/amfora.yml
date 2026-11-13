@@ -1,0 +1,5 @@
+summary: A fancy terminal browser for the Gemini protocol
+webpage: https://github.com/makew0rld/amfora
+version: 1.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/amfora-1.11.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 4bb718ea7dc94d5ce79c4134e166459b72d10ecf4af6992d9a569368351545b7

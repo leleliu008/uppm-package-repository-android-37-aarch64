@@ -1,0 +1,5 @@
+summary: Human-friendly and fast alternative to cut and (sometimes) awk
+webpage: https://github.com/theryangeary/choose
+version: 1.3.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/choose-1.3.7-android-37-arm64-v8a.release.tar.xz
+bin-sha: 7713f819ba848edc55e634be6d91f0330ef3a43d74e5e24a153b928eea6f83be

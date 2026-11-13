@@ -1,0 +1,5 @@
+summary: Linux virtual machines
+webpage: https://lima-vm.io/
+version: 2.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/lima-2.2.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: aa6623cb3e43ff6c46fe1c8a35a0b8ecb42a70e19ae6e34338afe14fa22c60bb

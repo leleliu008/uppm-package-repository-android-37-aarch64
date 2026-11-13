@@ -1,0 +1,5 @@
+summary: Make JSON greppable
+webpage: https://github.com/tomnomnom/gron
+version: 0.7.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/gron-0.7.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: e84e98935338385f26cfc5afe0ba89dfbe380a7e22bd803bb95b8ede77435fca

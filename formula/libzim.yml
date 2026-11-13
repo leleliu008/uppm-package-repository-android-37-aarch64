@@ -1,0 +1,5 @@
+summary: Reference implementation of the ZIM specification
+webpage: https://github.com/openzim/libzim
+version: 9.8.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libzim-9.8.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 5139c381fffe702cdf724e1fb459ca85cf399804433423d154bd74f7631073da

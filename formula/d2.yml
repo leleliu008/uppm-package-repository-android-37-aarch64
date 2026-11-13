@@ -1,0 +1,5 @@
+summary: A modern diagram scripting language that turns text to diagrams
+webpage: https://github.com/d2lang/d2
+version: 0.9.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/d2-0.9.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6a8274f9e553f4a6487f2e5329d59e72175941baba05a485a12b7ce5413be6d3

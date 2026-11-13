@@ -1,0 +1,5 @@
+summary: TOTP/HOTP authenticator app with import functionality
+webpage: https://github.com/replydev/cotp
+version: 1.11.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/cotp-1.11.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 456347a746aac81dbe67436d65735dbe5d08758e98e0c08fc29183c72cc58bab

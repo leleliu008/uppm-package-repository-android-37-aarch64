@@ -1,0 +1,5 @@
+summary: A cross-platform ping program using TCP instead of ICMP
+webpage: https://github.com/mkirchner/tcping
+version: 2.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/tcping-2.1.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: a0c5bc361b4b5e87b6f9252f84f513baeb865b14ab6cf5e00813a30c4c3f0199

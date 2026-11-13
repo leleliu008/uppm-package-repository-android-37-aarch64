@@ -1,0 +1,5 @@
+summary: Go git service
+webpage: https://gogs.io
+version: 0.14.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/gogs-0.14.4-android-37-arm64-v8a.release.tar.xz
+bin-sha: d28c7512954b702e6d32daa5b01de94ec48f7ebaac66ff86b5d77cdd22c63133

@@ -1,0 +1,5 @@
+summary: Linux Capability Library
+webpage: https://mirrors.edge.kernel.org/
+version: 2.78
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libcap-2.78-android-37-arm64-v8a.release.tar.xz
+bin-sha: 8d32b1e6f500b453e389073250a6c9702e540a1182ecff47edfc243e24b8dc6c

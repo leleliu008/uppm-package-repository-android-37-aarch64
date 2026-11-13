@@ -1,0 +1,5 @@
+summary: Terminal multiplexer
+webpage: https://tmux.github.io
+version: 3.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/tmux-3.8-android-37-arm64-v8a.release.tar.xz
+bin-sha: 9f9fbea8529f6e15160ebf9825a5b8f5bd41635abbdf9e464e0bebe02b657e68

@@ -1,0 +1,5 @@
+summary: A small library aims at hiding the various difficulties of dlopening libraries from programmers
+webpage: https://www.gnu.org/software/libtool
+version: 2.6.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libltdl-2.6.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: c8024cea3e296fc33c95bfbce6078311fb7b62e4ee0959bb7a70e353b47a963e

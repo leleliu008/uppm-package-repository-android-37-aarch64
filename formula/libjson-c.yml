@@ -1,0 +1,5 @@
+summary: A JSON parser for C
+webpage: https://github.com/json-c/json-c
+version: 0.19
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libjson-c-0.19-android-37-arm64-v8a.release.tar.xz
+bin-sha: 224f234697d42aeb9fad23d0a4c49c5ec5b84de9a131b975b8cc5cc27fecbd02

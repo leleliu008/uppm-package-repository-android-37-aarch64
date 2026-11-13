@@ -1,0 +1,5 @@
+summary: Run and Test HTTP Requests with plain text and curl
+webpage: https://hurl.dev
+version: 8.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/hurl-8.1.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 730a1025fd534a99c8907ab1cf4bb983cc6ef325d514f0191ea5df2588ffd854

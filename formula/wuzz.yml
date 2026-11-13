@@ -1,0 +1,5 @@
+summary: Interactive cli tool for HTTP inspection
+webpage: https://github.com/asciimoo/wuzz
+version: 0.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/wuzz-0.5.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 11533357cdf8d2c4269984bbc07c3130dca1a324e7fa91e50f40cb4fe147bda8

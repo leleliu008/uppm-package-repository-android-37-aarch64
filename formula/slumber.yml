@@ -1,0 +1,5 @@
+summary: Terminal-based HTTP/REST client
+webpage: https://slumber.lucaspickering.me/
+version: 5.4.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/slumber-5.4.4-android-37-arm64-v8a.release.tar.xz
+bin-sha: 99e6f05e0b4f3082b2a5c39a3a3ea20a18410e287bcee0a1a3d0c0c718397829

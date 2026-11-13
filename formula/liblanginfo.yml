@@ -1,0 +1,5 @@
+summary: langinfo.h and its implementation from android ndk source code
+webpage: https://pubs.opengroup.org/onlinepubs/9699919799/functions/nl_langinfo.html
+version: 2026.11.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/liblanginfo-2026.11.12-android-37-arm64-v8a.release.tar.xz
+bin-sha: a76dfb5429fbbeb49a5f4bf28f5f492b8c0714d1d122159f2d8fcde41f3aff03

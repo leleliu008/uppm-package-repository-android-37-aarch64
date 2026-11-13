@@ -1,0 +1,5 @@
+summary: QUIC library written in C
+webpage: https://github.com/ngtcp2/ngtcp2
+version: 1.26.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libngtcp2-1.26.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 427c5d64b6e9de64fc6315433d8d0a443874d50494163690e64de098b3d8ad0e

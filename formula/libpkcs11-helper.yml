@@ -1,0 +1,5 @@
+summary: Library to simplify the interaction with PKCS#11
+webpage: https://github.com/OpenSC/pkcs11-helper
+version: 1.31.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libpkcs11-helper-1.31.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 128353a9e2ca9198ecf9541da4b51354b41e0d3a8630b073552c74f968df7462

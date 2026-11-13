@@ -1,0 +1,5 @@
+summary: Portable abstraction of the hierarchical topology of modern architectures
+webpage: https://www.open-mpi.org/projects/hwloc
+version: 2.15.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/hwloc-2.15.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: d71f78204a4bbfd27895647e589519e9fe0afebabad24a884bd91329092d9b8d

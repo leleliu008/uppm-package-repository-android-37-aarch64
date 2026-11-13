@@ -1,0 +1,5 @@
+summary: Coreutils progress viewer
+webpage: https://github.com/Xfennec/progress
+version: 0.17
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/progress-0.17-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2c5c85e57ed82ea90d06b25fb064a492da9a88e0f50e4db1d84e5d46eb698cf2

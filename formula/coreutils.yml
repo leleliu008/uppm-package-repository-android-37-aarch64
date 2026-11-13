@@ -1,0 +1,5 @@
+summary: GNU File, Shell, and Text utilities
+webpage: https://www.gnu.org/software/coreutils
+version: 9.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/coreutils-9.12-android-37-arm64-v8a.release.tar.xz
+bin-sha: 307f830578bf98ea5293373f0123f4ba3242c5fb7f4a8147eacea0b21d6150a9

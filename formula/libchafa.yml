@@ -1,0 +1,5 @@
+summary: library to convert all kinds of images to ANSI/Unicode characters
+webpage: https://hpjansson.org/chafa/
+version: 1.18.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libchafa-1.18.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: ecbd80715cc0fbb4e02cbc3cd8ea887c76243dd622a500d86b99044b3e6e6cdc

@@ -1,0 +1,5 @@
+summary: A command-line tool for converting Commonmark Markdown to Gemtext
+webpage: https://sr.ht/~kota/gemgen/
+version: 0.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/gemgen-0.6.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6052222a072ab130d7e6c3a2abc4fda00fc150d34e763aa1d6856709bd733d54

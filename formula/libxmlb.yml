@@ -1,0 +1,5 @@
+summary: Library for querying compressed XML metadata
+webpage: https://github.com/hughsie/libxmlb
+version: 0.3.30
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libxmlb-0.3.30-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2a3b15d557752816aa0720a18927c377f9bfa5cc5fc29cf17f2b1888ebbe8e3b

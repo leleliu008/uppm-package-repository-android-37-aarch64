@@ -1,0 +1,5 @@
+summary: GNOME XML library
+webpage: https://gitlab.gnome.org/GNOME/libxml2
+version: 2.15.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libxml2-2.15.4-android-37-arm64-v8a.release.tar.xz
+bin-sha: 202cf897f3e5846b889354f9fdb222aba7ed1c2d96d3da8cbb0dedbf516408a0

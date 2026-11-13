@@ -1,0 +1,5 @@
+summary: C/C++ seam carving library
+webpage: https://liblqr.wikidot.com/
+version: 0.4.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/liblqr-0.4.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: c1b7f31b38135abfc25ae7e031a648d1ad848aa45f93468ca23f615a72c37586

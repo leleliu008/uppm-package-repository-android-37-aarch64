@@ -1,0 +1,5 @@
+summary: Vorbis General Audio Compression Codec
+webpage: https://xiph.org/vorbis
+version: 1.3.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libvorbis-1.3.7-android-37-arm64-v8a.release.tar.xz
+bin-sha: 098e9776eca8f85f746a6d4ae2086f7b9936290fcf9b1f8646a559aa10526041

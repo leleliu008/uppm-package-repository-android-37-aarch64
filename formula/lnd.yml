@@ -1,0 +1,5 @@
+summary: Lightning Network Daemon
+webpage: http://dev.lightning.community/
+version: 0.15.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/lnd-0.15.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: f812f3b3ec4ea64235d64b8c77f65501855893337578a3faf259acaf9453a4d9

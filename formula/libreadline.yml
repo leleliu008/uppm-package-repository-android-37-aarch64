@@ -1,0 +1,5 @@
+summary: Library for command-line editing
+webpage: https://www.gnu.org/software/readline
+version: 8.3.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libreadline-8.3.6-android-37-arm64-v8a.release.tar.xz
+bin-sha: fe7bea0e202f85746550cc0caeef8f4b4fea66388ce7657648b0be7131e9f4aa

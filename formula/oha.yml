@@ -1,0 +1,5 @@
+summary: HTTP load generator, inspired by rakyll/hey with tui animation
+webpage: https://github.com/hatoo/oha
+version: 1.16.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/oha-1.16.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: cf874899a12c771f28f04b48da31ee09d78b17a45278f314d0fb91f540c0ba9f

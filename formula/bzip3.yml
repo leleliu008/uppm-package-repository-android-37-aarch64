@@ -1,0 +1,5 @@
+summary: A better and stronger spiritual successor to BZip2
+webpage: https://github.com/iczelia/bzip3
+version: 1.5.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/bzip3-1.5.5-android-37-arm64-v8a.release.tar.xz
+bin-sha: 4d76212e2f4af47531bc0eb00d1eb4f40e2b393b8c70331b5975dbcdaafa771d

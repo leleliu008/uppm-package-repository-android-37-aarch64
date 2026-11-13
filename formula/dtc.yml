@@ -1,0 +1,5 @@
+summary: Device tree compiler
+webpage: https://mirrors.edge.kernel.org/
+version: 1.8.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/dtc-1.8.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: dfc98842044822bab16865bfdd85adfa7aca1b9ea666b02a282415a7c8327a11

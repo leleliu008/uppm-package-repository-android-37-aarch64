@@ -1,0 +1,5 @@
+summary: A command-line interface for qBittorrent written in Go
+webpage: https://github.com/ludviglundgren/qbittorrent-cli
+version: 2.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/qbittorrent-cli-2.3.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: b56191d2ded95ba50f5a885680d4c785df7ac4204820659dee3597317a385b39

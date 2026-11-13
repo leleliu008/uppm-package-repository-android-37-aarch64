@@ -1,0 +1,5 @@
+summary: A user-friendly launcher for Bazel
+webpage: https://github.com/bazelbuild/bazelisk
+version: 1.30.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/bazelisk-1.30.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1024893ebf41ec328c0ee5dbd6f28681a1af95620eab7ab1f60e5a5198fe5f43

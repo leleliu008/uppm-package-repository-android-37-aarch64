@@ -1,0 +1,5 @@
+summary: Cargo subcommands to build and test all feature flag combinations
+webpage: https://github.com/frewsxcv/cargo-all-features
+version: 1.12.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/cargo-all-features-1.12.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: da62e5cb5e23020b7052a53275b6e5b50095e3bfaac251de3f4821db392b134b

@@ -1,0 +1,5 @@
+summary: Library for handling paper characteristics
+webpage: https://github.com/rrthomas/libpaper
+version: 2.2.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libpaper-2.2.8-android-37-arm64-v8a.release.tar.xz
+bin-sha: 611820d11b3c6bc344a2d37ec2e39a7dfd42efac003126fd3dd65243790bb01f

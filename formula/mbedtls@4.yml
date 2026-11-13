@@ -1,0 +1,5 @@
+summary: Cryptographic and SSL/TLS library
+webpage: https://tls.mbed.org
+version: 4.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/mbedtls-4.2.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: fbadf4f03cad3c18a25e1b69c25ea9a28268be263f0363e8c773f1aaf0d57909

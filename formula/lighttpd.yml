@@ -1,0 +1,5 @@
+summary: A secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments
+webpage: https://www.lighttpd.net/
+version: 1.4.85
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/lighttpd-1.4.85-android-37-arm64-v8a.release.tar.xz
+bin-sha: d4b5a835d2c1faddf2a0230805e5f201e0a58473d018ade131600ee793dd86c9

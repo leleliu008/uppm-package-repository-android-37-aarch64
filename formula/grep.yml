@@ -1,0 +1,5 @@
+summary: GNU grep, egrep and fgrep
+webpage: https://www.gnu.org/software/grep
+version: 3.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/grep-3.12-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2b29844162c123c42d2e4d730af65f8527796772807f7479c48d75b180f824b4

@@ -1,0 +1,5 @@
+summary: library for laying out and rendering of text, with an emphasis on internationalization
+webpage: https://www.pango.org/
+version: 1.58.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libpango-1.58.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 27016c1732e17d73606f639d605c6e9dbb94a346bf475328291d16833e91c88b

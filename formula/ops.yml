@@ -1,0 +1,5 @@
+summary: Build and Run Nanos Unikernels
+webpage: https://nanos.org/
+version: 0.1.47
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/ops-0.1.47-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6e7768a6c1083937a33763bbe7c2ef24f7f76d9bbf2d2d12b8f137fa866a6d4a

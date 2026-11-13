@@ -1,0 +1,5 @@
+summary: Swiss army knife for Debian repository management
+webpage: https://www.aptly.info/
+version: 1.6.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/aptly-1.6.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: 20a4f949d9960592b981f8ac25bce522ee6073b3ad298f5ba1e74e92dd0ad664

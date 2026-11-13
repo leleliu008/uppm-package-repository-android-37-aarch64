@@ -1,0 +1,5 @@
+summary: Count lines of LLVM IR per generic function
+webpage: https://github.com/dtolnay/cargo-llvm-lines
+version: 0.4.48
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/cargo-llvm-lines-0.4.48-android-37-arm64-v8a.release.tar.xz
+bin-sha: debf9aec3369cf212334321f5d3d748d5935b158572906ac2c2c1e98534d08ff

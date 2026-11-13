@@ -1,0 +1,5 @@
+summary: Used as a compiler wrapper and avoids compilation when possible
+webpage: https://github.com/mozilla/sccache
+version: 0.19.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/sccache-0.19.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: d51b84f07b9dc2c769a47e5aafafb458a104817566c4a97abfcd9f02ddd8f603

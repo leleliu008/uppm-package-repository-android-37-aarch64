@@ -1,0 +1,5 @@
+summary: TIFF library
+webpage: https://libtiff.gitlab.io/libtiff
+version: 4.7.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libtiff.a-4.7.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: fe24f6734ba4490354d1a304486e31b13d08da3476bdba5ea65c49c8815a417f

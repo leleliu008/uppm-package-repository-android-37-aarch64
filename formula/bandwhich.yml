@@ -1,0 +1,5 @@
+summary: Terminal bandwidth utilization tool
+webpage: https://github.com/imsnif/bandwhich
+version: 0.23.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/bandwhich-0.23.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 8fe5545462b9c2fbedce716fd87211e98e5d5c1327e47ef9926e3056f8444408

@@ -1,0 +1,5 @@
+summary: MPEG audio decoder
+webpage: https://codeberg.org/tenacityteam/libmad
+version: 0.16.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libmad-0.16.5-android-37-arm64-v8a.release.tar.xz
+bin-sha: 399c7c34080d1e3a919dffbcd3aae919835ea4ecd73f918e5c44bbec21953da2

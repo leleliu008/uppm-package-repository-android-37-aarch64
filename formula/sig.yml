@@ -1,0 +1,5 @@
+summary: Interactive grep (for streaming)
+webpage: https://github.com/ynqa/sig
+version: 0.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/sig-0.3.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: faeb9506c7686fc9b1cf9de312a1c17f96a30c96c213d00568405c6258e69149
