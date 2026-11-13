@@ -28,11 +28,8 @@ jobs:
       - run: ./ndk-pkg setup
       - run: ./ndk-pkg update
 
-      - run: |
-          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
-          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
-          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
-          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+      - run: sed -i -e '/^dep-pkg:/s|libcares||' -e '/enable-ares/d' curl.yml libcurl.yml
+        working-directory: ${{ env.HOME }}/.ndk-pkg/repos.d/official-core/formula/
 
       - run: ./ndk-pkg install android-37-arm64-v8a/${{ matrix.pkg }}
 
@@ -88,11 +85,8 @@ jobs:
       - run: ./ndk-pkg setup
       - run: ./ndk-pkg update
 
-      - run: |
-          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
-          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
-          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
-          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+      - run: sed -i -e '/^dep-pkg:/s|libcares||' -e '/enable-ares/d' curl.yml libcurl.yml
+        working-directory: ${{ env.HOME }}/.ndk-pkg/repos.d/official-core/formula/
 
       - run: ./ndk-pkg install android-37-arm64-v8a/${{ matrix.pkg }}
 
@@ -148,11 +142,8 @@ jobs:
       - run: ./ndk-pkg setup
       - run: ./ndk-pkg update
 
-      - run: |
-          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
-          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
-          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
-          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+      - run: sed -i -e '/^dep-pkg:/s|libcares||' -e '/enable-ares/d' curl.yml libcurl.yml
+        working-directory: ${{ env.HOME }}/.ndk-pkg/repos.d/official-core/formula/
 
       - run: ./ndk-pkg install android-37-arm64-v8a/${{ matrix.pkg }}
 
@@ -208,11 +199,8 @@ jobs:
       - run: ./ndk-pkg setup
       - run: ./ndk-pkg update
 
-      - run: |
-          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
-          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/curl.yml
-          sed -i 's/libcares//'    ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
-          sed -i '/enable-ares/d'  ~/.ndk-pkg/repos.d/official-core/formula/libcurl.yml
+      - run: sed -i -e '/^dep-pkg:/s|libcares||' -e '/enable-ares/d' curl.yml libcurl.yml
+        working-directory: ${{ env.HOME }}/.ndk-pkg/repos.d/official-core/formula/
 
       - run: ./ndk-pkg install android-37-arm64-v8a/${{ matrix.pkg }}
 
