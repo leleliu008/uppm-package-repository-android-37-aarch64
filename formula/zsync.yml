@@ -1,5 +1,5 @@
 summary: A command-line tool similar to rsync but optimised for transfering single large files across the network
 webpage: https://zsync.moria.org.uk/
 version: 0.8.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/zsync-0.8.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: d429a630c185e245cbe903a1b4da0bbd9dc4acc0a961970d9209153c4613e9a4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.2/zsync-0.8.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 93ffe2d386181a49fa243d2e0d85ea45fea476a564cd050016575d5c330435dc

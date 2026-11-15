@@ -1,0 +1,5 @@
+summary: A collection of utilities able to process any combination of compressed and uncompressed files transparently
+webpage: https://www.nongnu.org/zutils/zutils.html
+version: 1.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.2/zutils-1.15-android-37-arm64-v8a.release.tar.xz
+bin-sha: 65fbc900d996006fd6977b0ee0b63f37af5076edb417ca2e2ac78989e6a2bcc8

@@ -1,5 +1,5 @@
 summary: Ninja-compatible build tool written in C
 webpage: https://github.com/michaelforney/samurai
 version: 1.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/samurai-1.3-android-37-arm64-v8a.release.tar.xz
-bin-sha: eff8869e3e0d045691f007596bb1879ce8b8ea61d50d6c79279b264da299f076
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/samurai-1.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: 3af1aece54ede8dcb7387bfde1ddc5188e6a69b9856504b392379374ac70c88f

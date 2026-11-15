@@ -1,5 +1,5 @@
 summary: A command-line tool to translates a terminfo file from source format into compiled format
 webpage: https://www.gnu.org/software/ncurses
 version: 6.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/tic-6.6-android-37-arm64-v8a.release.tar.xz
-bin-sha: d7355975b5125721dd9dfae53ebb40db8459c7890d908031c4951a4b1239f65e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/tic-6.6-android-37-arm64-v8a.release.tar.xz
+bin-sha: a21c8ec3b4e6bb871ecf3493779a58db88d768ed1c1fa8b7e673a00ad3d3b117

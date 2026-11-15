@@ -1,5 +1,5 @@
 summary: DICOM WSI read library
 webpage: https://github.com/ImagingDataCommons/libdicom
 version: 1.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libdicom-1.3.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: c4d9f3822be5b2d89d143b627f018666318f1ea59c62af38dccf42f4f28337bc
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libdicom-1.3.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: f82479724a4caf829f2a5b22aa5b23189001fe371b3d59937524e65bc3131f6e

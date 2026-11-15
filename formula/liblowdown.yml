@@ -1,5 +1,5 @@
 summary: Simple markdown translator
 webpage: https://kristaps.bsd.lv/lowdown/
 version: 3.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/liblowdown-3.2.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: b50ebf74030ad300554ad6918cff9b91e144c7c47354f662b994ea57243dc216
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/liblowdown-3.2.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2e9ace7ce717de8490deb3887ab4e8c9f0624347f31291ca14426b57b9865703

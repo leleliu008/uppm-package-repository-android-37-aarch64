@@ -1,5 +1,5 @@
 summary: C++ wrapper for libpng library
 webpage: https://www.nongnu.org/pngpp/
 version: 0.2.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libpng++-0.2.10-android-aarch64.release.tar.xz
-bin-sha: 7ee75a99567f75bdb5ce96bde75cc37518c4fa0204ad944762811af6dded735e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libpng++-0.2.10-android-aarch64.release.tar.xz
+bin-sha: 352a7077937644404638cd14294cd8b4267f38b69ff0a167793478ae66f01305

@@ -1,5 +1,5 @@
 summary: Feature-rich C++11/14/17/20/23 single-header testing framework
 webpage: https://github.com/doctest/doctest
 version: 2.5.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/doctest-2.5.3-android-aarch64.release.tar.xz
-bin-sha: 7a7f5a29bc4af76eb2487334351aed96262c702f54b98ba4f6a16d9943f8fae4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/doctest-2.5.3-android-aarch64.release.tar.xz
+bin-sha: 6ae5423f797859fa8842857ce68a54fdb3282220ee078d89ad44a462d4b0f49f

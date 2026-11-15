@@ -1,5 +1,5 @@
 summary: An extremely fast Python linter, written in Rust
 webpage: https://docs.astral.sh/ruff/
-version: 0.17.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/ruff-0.17.4-android-37-arm64-v8a.release.tar.xz
-bin-sha: f49d0e386e48d2464ce628f81243620e5c2800514980c8c553c07e36109b7274
+version: 0.17.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/ruff-0.17.5-android-37-arm64-v8a.release.tar.xz
+bin-sha: 26b6d917e2fd8ce2208741fbb84ff0c3683611180afaf7192e36fa96db2e62c2

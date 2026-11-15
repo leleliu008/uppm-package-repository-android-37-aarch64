@@ -1,5 +1,5 @@
 summary: Cargo subcommand to easily use LLVM source-based code coverage
 webpage: https://static.crates.io/
 version: 0.9.1.crate
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/cargo-llvm-cov-0.9.1.crate-android-37-arm64-v8a.release.tar.xz
-bin-sha: 508391267bdec67a635fed67c5b82dce9e90e9d7427f5020ad5903ae34133151
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/cargo-llvm-cov-0.9.1.crate-android-37-arm64-v8a.release.tar.xz
+bin-sha: 588647cd104f38f42b5c8a366c3183da2cfeb6d29b8139942d7439b89cf685bc

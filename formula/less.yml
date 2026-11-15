@@ -1,5 +1,5 @@
 summary: Pager program similar to more
 webpage: http://www.greenwoodsoftware.com/less/index.html
 version: 710
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/less-710-android-37-arm64-v8a.release.tar.xz
-bin-sha: b64b2bc0930c2513953689944996d7c452783fa7910ff0f1cf0c3c96cd220154
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/less-710-android-37-arm64-v8a.release.tar.xz
+bin-sha: 8d03bc098349ff2792e81f4190608b7e1d3e0f17d435db3037b66a540bf0b139

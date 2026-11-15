@@ -1,0 +1,5 @@
+summary: Keyboard configuration database for the X Window System
+webpage: https://www.freedesktop.org/wiki/Software/XKeyboardConfig/
+version: 2.48
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/xkeyboard-config-2.48-android-aarch64.release.tar.xz
+bin-sha: 3612cb569acdf6c6f4977a1e8a2e9f1cae7c64dbb49bfadf4d87f9b2e13d8329

@@ -1,5 +1,5 @@
 summary: A simple-to-use, log4j-like logging framework for C++
 webpage: https://github.com/log4cplus/log4cplus
 version: 2.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/log4cplus-2.2.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 871d5339fa3713665e53f186c420869c52ac92ae13abc0383d6f2c3564e3c31a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/log4cplus-2.2.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 54958b2425b4a9ce08af4926858109cb9a390cec0bef9e52cca4671ead9a9a40

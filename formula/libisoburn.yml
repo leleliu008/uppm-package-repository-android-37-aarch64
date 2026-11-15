@@ -1,5 +1,5 @@
 summary: Frontend for libraries libburn and libisofs
 webpage: https://www.libburnia-project.org
 version: 1.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libisoburn-1.5.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: dc6ddf99ac3bddc8f342795a9cdf23c86d2a954b3219ff5952d12fddaad91835
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libisoburn-1.5.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 01af24746fc6f8e65b87c7164699670d02926b5bbd2357a6108d8864bc550a46

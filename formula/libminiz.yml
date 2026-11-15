@@ -1,5 +1,5 @@
 summary: A lossless, high performance data compression library in a single source file that implements the zlib (RFC 1950) and Deflate (RFC 1951) compressed data format specification standards
 webpage: https://github.com/richgel999/miniz
 version: 3.1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/libminiz-3.1.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: e3d7b8c5057248a6b7ca923daab116b2ab65bcfd1f3f1187f634a18d57923a06
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libminiz-3.1.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 33e8d2a76898f343824ab2605aef040e0b49663c531628479c8112f5bab51473

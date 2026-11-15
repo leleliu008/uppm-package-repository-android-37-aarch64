@@ -1,5 +1,5 @@
 summary: A portable lossless data compression library written in ANSI C
 webpage: https://www.oberhumer.com/opensource/lzo
 version: 2.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.13/liblzo-2.10-android-37-arm64-v8a.release.tar.xz
-bin-sha: 89017146608e46e3655879e1acc13ae9f7824b3506a6bf5380adae95ba06ea27
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/liblzo-2.10-android-37-arm64-v8a.release.tar.xz
+bin-sha: 06705e55f3453860ee5763b8c7e00b33e87396a5d8735569c16d3be4038a8647
