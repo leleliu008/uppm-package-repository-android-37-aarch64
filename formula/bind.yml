@@ -1,5 +1,5 @@
 summary: Implementation of the DNS protocols
 webpage: https://www.isc.org/downloads/bind
 version: 9.20.30
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/bind-9.20.30-android-37-arm64-v8a.release.tar.xz
-bin-sha: a95533ed673d9d5d299ce55ee3925565770f9ed02614a4eea33ab3c3bf1e14fd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/bind-9.20.30-android-37-arm64-v8a.release.tar.xz
+bin-sha: 9dc9076a9347be1eafed1542339f763b96490cdfb8796c51cc212d8b9bbd90bd

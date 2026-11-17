@@ -1,5 +1,5 @@
 summary: C/C++ implementation of a Sass compiler
 webpage: https://github.com/sass/libsass
 version: 3.6.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libsass-3.6.6-android-37-arm64-v8a.release.tar.xz
-bin-sha: 0c3bfc4d900ee8d8fe33ca8f03ab845466fd530f8eb69143e5396379f64aa17f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libsass-3.6.6-android-37-arm64-v8a.release.tar.xz
+bin-sha: 7d1f35ba31e2d0efe5e1f204c4a5b258a1abd4fed1c57843edde565e002f4f8c

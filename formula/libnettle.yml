@@ -1,5 +1,5 @@
 summary: Low-level cryptographic library
 webpage: https://www.lysator.liu.se/~nisse/nettle
 version: 4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libnettle-4.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: a58c762c05627a993d38c4356253a2f08f6f8abdf1f36927864cd70c3faf917e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libnettle-4.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1ff363d0256d7354e58c53d83717b1a5136876d46acf0913cdb678fc2eff99d3

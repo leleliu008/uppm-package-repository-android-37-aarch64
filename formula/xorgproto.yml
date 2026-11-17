@@ -1,5 +1,5 @@
 summary: X.Org Protocol Headers
 webpage: https://xorg.freedesktop.org/
 version: 2026.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/xorgproto-2026.1-android-aarch64.release.tar.xz
-bin-sha: 6723b54f343cafec1de9bfb2320b548767431b7b0054123ff45061aa65a58eab
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/xorgproto-2026.1-android-aarch64.release.tar.xz
+bin-sha: 1ba634a2825104aa3ed6a5d2c8d1a8414f8a85151726538f5c3cdaf7fb90cf4a

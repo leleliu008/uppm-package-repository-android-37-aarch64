@@ -1,5 +1,5 @@
 summary: tools to create and extract Squashfs filesystems
 webpage: https://github.com/AgentD/squashfs-tools-ng
 version: 1.3.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/squashfs-tools-ng-1.3.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 349f0619315da6b82a8b99bafd331f494b4724b65b8832937c2d9772b429a9eb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/squashfs-tools-ng-1.3.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: d761a24907c43292a37671ccbd236fdd9f047439f401df02f732797f887612b4

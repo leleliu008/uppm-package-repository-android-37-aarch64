@@ -1,5 +1,5 @@
 summary: Blazing fast terminal-ui for git written in rust
 webpage: https://github.com/gitui-org/gitui
 version: 0.28.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/gitui-0.28.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: de6a861c712d98494c01e706aa2a36c03bcead60184dd93beabf82ab6c85f705
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/gitui-0.28.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6f1da211864720457561420ade350bc122f9b046ef9682d932f83583ed588926

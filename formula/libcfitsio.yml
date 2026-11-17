@@ -1,5 +1,5 @@
 summary: C access to FITS data files with optional Fortran wrappers
 webpage: https://heasarc.gsfc.nasa.gov/docs/software/fitsio/fitsio.html
 version: 4.7.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libcfitsio-4.7.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: d9dd2e088c772887fe80a4271e442aa0cc38f7b13bae5a9b9e0c5bfa2bbb0ccd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libcfitsio-4.7.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6138176359fb726c413fe8287692ef82a99f4012117c8ec60509fd3543f89b03

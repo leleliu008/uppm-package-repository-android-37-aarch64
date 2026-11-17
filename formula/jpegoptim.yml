@@ -1,5 +1,5 @@
 summary: Utility to optimize JPEG files
 webpage: https://github.com/tjko/jpegoptim
 version: 1.5.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/jpegoptim-1.5.6-android-37-arm64-v8a.release.tar.xz
-bin-sha: 194f702affaaee102c89c7e61147dfcc405c2ca900c3ef11c164acdbebdc9180
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/jpegoptim-1.5.6-android-37-arm64-v8a.release.tar.xz
+bin-sha: 9c5d80c03045cc452216cc4151639f7bc42917afb5c6b7d2afa35ae19b370177

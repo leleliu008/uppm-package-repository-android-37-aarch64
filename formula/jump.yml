@@ -1,5 +1,5 @@
 summary: Helps you navigate your file system faster by learning your habits
 webpage: https://github.com/gsamokovarov/jump
 version: 0.69.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/jump-0.69.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: ea2f9b5be1786f84380561536b6dc8be785f03b7ec28c6918d4e5311d13a2838
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/jump-0.69.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 593857b5da2127a71155b227094edc69502c52dd0a600a367236d014f95e3f15

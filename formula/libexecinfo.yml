@@ -1,5 +1,5 @@
 summary: A quick-n-dirty BSD licensed clone of backtrace facility found in the GNU libc
 webpage: https://github.com/leleliu008/libexecinfo
-version: 2026.11.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libexecinfo-2026.11.15-android-37-arm64-v8a.release.tar.xz
-bin-sha: b5e54579070210ef73f433b5f187243079f86b443f443f78b3e4938d2d0468a3
+version: 2026.11.17
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libexecinfo-2026.11.17-android-37-arm64-v8a.release.tar.xz
+bin-sha: 88c240aa819b9a6fe7c819140b4bf0842e15da968ea27537d34ecefec7d630a0

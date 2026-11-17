@@ -1,5 +1,5 @@
 summary: GNU implementation of which utility
 webpage: https://www.gnu.org/software/which
 version: 2.25
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/gnu-which-2.25-android-37-arm64-v8a.release.tar.xz
-bin-sha: 74655846cee347c3b70b1f30ea90f4dc78e1a1987e33ad0662419d932fa15673
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/gnu-which-2.25-android-37-arm64-v8a.release.tar.xz
+bin-sha: 77dfbc9ea45bad034dd0d18eacfe87a7043b40c4656998c78f09882173b975e8

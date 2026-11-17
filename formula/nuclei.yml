@@ -1,5 +1,5 @@
 summary: HTTP/DNS scanner configurable via YAML templates
 webpage: https://nuclei.projectdiscovery.io/
 version: 3.11.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/nuclei-3.11.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: f87e5b97cf1d1103985bcbf8047d903814a5728369344a53b6f3d4576ede12e3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/nuclei-3.11.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2ebe9922c5dfc665032bfe8a1f03e2588f286fc6b780c25616c0e85a197238d5

@@ -1,5 +1,5 @@
 summary: Open source xHE-AAC encoder
 webpage: https://gitlab.com/ecodis/exhale
 version: 1.2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/exhale-1.2.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 093e3df2f16b3c13303f297048171f0becb60644fc6b06dc2a13c64e9c971c82
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/exhale-1.2.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 039e019e436330d6beb0c1ff71f63272026d5f8135ccadfe053f1bfb5f126b14

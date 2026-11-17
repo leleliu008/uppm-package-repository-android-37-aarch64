@@ -1,5 +1,5 @@
 summary: A simple file manager written in bash
 webpage: https://github.com/dylanaraps/fff
 version: 2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/fff-2.2-android-aarch64.release.tar.xz
-bin-sha: 03df7b377ee1e3b5c897010a72ff56b58dd18a9191d9fbe45c2dc4240065818d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/fff-2.2-android-aarch64.release.tar.xz
+bin-sha: 0b31afe62c8ac35fb0bd4a68f3e4b6ed750da6410c0e5fdebbc839d88188e51e

@@ -1,5 +1,5 @@
 summary: A smart and user-friendly command-line shell
 webpage: https://fishshell.com/
 version: 3.7.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/fish-3.7.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: a4a0c401d988d87dff9f7ed2c181fbc62dad57229c0b94d0418ef83f5265cbb1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/fish-3.7.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 546ed6238b4648a9aa9af9628a487bec12770653fd41b4df2cf822c61986814d

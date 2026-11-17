@@ -1,5 +1,5 @@
 summary: Address book with mutt support
 webpage: https://abook.sourceforge.io/
 version: 0.6.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/abook-0.6.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 62e448486499af0c01e3a8685860e1b38780c1e9b67e05cb27a33b554a7b5acc
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/abook-0.6.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: ca1fdb68b336437492b3b5612e8aade21ede6dab59e86f455ae018ea4cef9154

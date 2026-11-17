@@ -1,5 +1,5 @@
 summary: Find security issues in GitHub Actions setups
 webpage: https://docs.zizmor.sh/
 version: 1.32.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.2/zizmor-1.32.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: dab7a26b3230584b55856f0d408807dbbdbc24d9b802be27793abcea9d5d2d65
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.2/zizmor-1.32.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1ae494c12b05a5cc6fceecd8e8425ebe0efe21ef5b5829569244ff377927b0f6

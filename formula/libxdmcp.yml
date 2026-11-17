@@ -1,5 +1,5 @@
 summary: X.Org Display Manager Control Protocol library
 webpage: https://xorg.freedesktop.org/
 version: 1.1.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libxdmcp-1.1.5-android-37-arm64-v8a.release.tar.xz
-bin-sha: 1ffbc36cfd40ebd2a41aac42074a8624b9c2cac282a06d1565f0110c1b70637a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libxdmcp-1.1.5-android-37-arm64-v8a.release.tar.xz
+bin-sha: 14083ec247546ac9235956cf5414a30700015a41588eb93edeb1a497d123def6

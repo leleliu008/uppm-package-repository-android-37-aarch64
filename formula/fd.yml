@@ -1,5 +1,5 @@
 summary: A simple, fast and user-friendly alternative to find(1)
 webpage: https://github.com/sharkdp/fd
 version: 10.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/fd-10.5.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 883f58487608142e48641d0cf8211434b3d12575cf84146c2ea73e7fbac116fd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/fd-10.5.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 9ea0639930794b41be4d1f0fecebb15809c62e0a83d615c89d0675dbec82c3f1

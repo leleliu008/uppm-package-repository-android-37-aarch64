@@ -1,5 +1,5 @@
 summary: A set of autoconf macros used to build other xorg packages
 webpage: https://xorg.freedesktop.org/
 version: 1.20.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/util-macros-1.20.2-android-aarch64.release.tar.xz
-bin-sha: 6b5f8de05fbca788fbcd33f11d864b2c359737a2a3209e623c1ad6cad0968ce2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/util-macros-1.20.2-android-aarch64.release.tar.xz
+bin-sha: 14e092d1de441cc47fc7c3d26457888c8c07fb2bf155701d55eab7d1bcf8123a

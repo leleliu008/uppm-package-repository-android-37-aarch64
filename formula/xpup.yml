@@ -1,5 +1,5 @@
 summary: A command line XML parsing tool
 webpage: https://github.com/ericchiang/xpup
-version: 2026.11.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/xpup-2026.11.15-android-37-arm64-v8a.release.tar.xz
-bin-sha: c48132e4025730de4d99489a00fe119c89351141b790132935194c41ef73196c
+version: 2026.11.17
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/xpup-2026.11.17-android-37-arm64-v8a.release.tar.xz
+bin-sha: 75d83b5b84369ce90c8a838e0853486b03b905cb563eb99478498b3a1898ecec

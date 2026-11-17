@@ -1,5 +1,5 @@
 summary: A free, general-purpose data compression with a high compression ratio
 webpage: https://tukaani.org/xz
 version: 5.8.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/xz-5.8.4-android-37-arm64-v8a.release.tar.xz
-bin-sha: 5d9a6137677932f7f7738ef2870922c9e47c87eff8effff25d30139abb632a9d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/xz-5.8.4-android-37-arm64-v8a.release.tar.xz
+bin-sha: b445eaaafb961f7bb9b3afc5c8933f3c318a8dc8ac7f328779fe30911120d32d

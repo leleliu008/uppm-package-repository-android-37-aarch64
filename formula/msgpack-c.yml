@@ -1,5 +1,5 @@
 summary: Library for a binary-based efficient data interchange format
 webpage: https://msgpack.org/
 version: 7.0.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/msgpack-c-7.0.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: c4f5c2f9a5befaedeed9dec664e906bf0d86b1b3ad469bd7f7c91b66e244132e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/msgpack-c-7.0.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2de97f4ab81b88f5a2f469a614df5ca1604b11c3a4221fbc4abde2083b955dcd

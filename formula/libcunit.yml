@@ -1,5 +1,5 @@
 summary: Lightweight unit testing framework for C
 webpage: https://cunit.sourceforge.io
 version: 3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libcunit-3-android-37-arm64-v8a.release.tar.xz
-bin-sha: a10b06f661cf5206591b0058f8155949872904613caf1f10a93cfee4090a23ff
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libcunit-3-android-37-arm64-v8a.release.tar.xz
+bin-sha: d46fac76dddf3f7ba50403c181bedd73a649d427baec1d785b5280f3de440c90

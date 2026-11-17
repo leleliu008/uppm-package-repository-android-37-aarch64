@@ -1,5 +1,5 @@
 summary: C library SSHv1/SSHv2 client and server protocols
 webpage: https://www.libssh.org/
 version: 0.10.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libssh-0.10.6-android-37-arm64-v8a.release.tar.xz
-bin-sha: 7dcebde148b6c6fb3619f0b583328f0b5fcecc8ed64e3511d8688b574bd372c3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libssh-0.10.6-android-37-arm64-v8a.release.tar.xz
+bin-sha: cfd41571eb7ea6ea875532fe4ddc08abcd5212289a4ffe0a9ea79d6dc6d82821

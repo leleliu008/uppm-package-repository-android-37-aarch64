@@ -1,5 +1,5 @@
 summary: A powerful and easy to use command-line calculator
 webpage: https://qalculate.github.io/
 version: 5.13.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/qalc-5.13.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 2f9112ff5246e2ef540e23eb6fb13046d7e64b6bd6dbeda0001c0f72e42d8718
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/qalc-5.13.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 63eb08b809c216dfae62829866e3017c62df9776c62cddf30931544d211c3da8

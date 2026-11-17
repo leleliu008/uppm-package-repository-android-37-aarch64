@@ -1,5 +1,5 @@
 summary: A command-line tool for transferring data from/to an HTTP, HTTPS or FTP server
 webpage: https://curl.se/
 version: 8.23.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/curl-8.23.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: f856f29edcacbdce5cb7855fc6179df519f3b73b89cc0674f3ecfe4ad96e4994
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/curl-8.23.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 792d85b80a8eafb50dca5f9aa3b28970371a87472a4a619e8ff7fe16fd45f8e3

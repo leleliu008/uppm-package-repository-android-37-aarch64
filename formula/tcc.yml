@@ -1,5 +1,5 @@
 summary: Tiny C compiler
 webpage: http://www.tinycc.org/
 version: 0.9.27
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/tcc-0.9.27-android-37-arm64-v8a.release.tar.xz
-bin-sha: 84f915dd8e1ec0b1d1d45d8d0620c6d0fa2a24fec9cb0171391e36008111a425
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/tcc-0.9.27-android-37-arm64-v8a.release.tar.xz
+bin-sha: d6d624152424ebb716e09f5751de641d741178e90359567e0a56fa4094f2d0d5

@@ -1,5 +1,5 @@
 summary: A new type of shell
 webpage: https://www.nushell.sh
 version: 0.117.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/nushell-0.117.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 6aad56b4242b658b2ad2d29035067b5cef94e100e16b6fcd4e73b73dcf0ffa13
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/nushell-0.117.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 763ff19e1e9ebb4c60a2ede6720f18c4ef4238272903003ab638eabfd2d6e720

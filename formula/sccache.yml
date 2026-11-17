@@ -1,5 +1,5 @@
 summary: Used as a compiler wrapper and avoids compilation when possible
 webpage: https://github.com/mozilla/sccache
 version: 0.19.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/sccache-0.19.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 439c2f5f2718e0a1757c18b151257d31450665f8016e52b25b7370e36c4e2757
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/sccache-0.19.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 4d44412b5efa91b582c2fcdb0e2bc292da3094fc5e69dd86717a3ce438f86ab5

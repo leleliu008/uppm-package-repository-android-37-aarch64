@@ -1,5 +1,5 @@
 summary: Cartographic Projections Library
 webpage: https://proj.org/
 version: 7.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libproj7-7.2.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: de5fe63a401bcd7e22260005326c36969b6415e5f4a658c6c276751e05d7d6bf
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libproj7-7.2.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 3c7b90fb9ca5b93627d4d9223176685a9f8d585dab2572e3fd95851cd6227f07

@@ -1,5 +1,5 @@
 summary: YAML parser and emitter written in C++ for YAML 1.2 spec
 webpage: https://github.com/jbeder/yaml-cpp
 version: 0.9.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libyaml-cpp-0.9.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 1dde3384d85a3ab4cacff37465574ce83c7c774cb94cee89d774fc7168991e81
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libyaml-cpp-0.9.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1557bd18301c60cfe60cfc0525e912582b5d7b8e11be7ad714c8978ef649136b

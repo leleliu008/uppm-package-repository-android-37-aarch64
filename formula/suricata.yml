@@ -1,5 +1,5 @@
 summary: Network IDS, IPS, and security monitoring engine
 webpage: https://suricata-ids.org
 version: 8.0.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/suricata-8.0.8-android-37-arm64-v8a.release.tar.xz
-bin-sha: 75315a4ae5ec6fabfede3e011c214a76109966c4b63d9bb44eb744a46af6dd74
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/suricata-8.0.8-android-37-arm64-v8a.release.tar.xz
+bin-sha: de635c8f4fdbcfc52bf581ce75d178b280a4f4f9b676fa854074256f4266d04c

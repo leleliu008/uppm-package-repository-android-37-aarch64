@@ -1,5 +1,5 @@
 summary: Library to create an ISO-9660 filesystem with extensions like RockRidge or Joliet
 webpage: https://files.libburnia-project.org/
 version: 1.5.8.pl02
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libisofs-1.5.8.pl02-android-37-arm64-v8a.release.tar.xz
-bin-sha: 25b1fdfd3ecd53f825c1310ac7320bbd42d9ada7d6aeba6bf66f3afa0e569b59
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libisofs-1.5.8.pl02-android-37-arm64-v8a.release.tar.xz
+bin-sha: f29851354766d701ea50c925b8ca2729409bfbaa235cb99c7dd07beacbe19623

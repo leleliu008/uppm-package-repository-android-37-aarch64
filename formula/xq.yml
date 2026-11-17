@@ -1,5 +1,5 @@
 summary: Command-line XML and HTML beautifier and content extractor
 webpage: https://github.com/sibprogrammer/xq
 version: 1.5.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/xq-1.5.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: e4b98be61848a715d7ebbe875728a38d4a61cc86079d29701189c02aecc16935
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/xq-1.5.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 81ced88b9c26f9be2f59b7124203f26995a83962a594fbed7c06511e19e60dda

@@ -1,5 +1,5 @@
 summary: Top Disk Usage
 webpage: https://github.com/josephpaul0/tdu
 version: 1.36
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/tdu-1.36-android-37-arm64-v8a.release.tar.xz
-bin-sha: 51d0b000b43aaa847b8cdc8c07c2bd44b83fd9fc2472935fed03fcef12b8285d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/tdu-1.36-android-37-arm64-v8a.release.tar.xz
+bin-sha: 3ad5e80a74207ffed96ec5e7c7f034e38d67c618e37c4e75a2dd7a3e392a9457

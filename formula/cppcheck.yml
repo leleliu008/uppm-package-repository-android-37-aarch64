@@ -1,5 +1,5 @@
 summary: A static analysis tool for C/C++ code
 webpage: https://sourceforge.net/projects/cppcheck
 version: 2.22.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/cppcheck-2.22.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 6bac452c097c24d608c8ea6561f6cd313ab9ee2ae89ea8be09c27d71d7df7030
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/cppcheck-2.22.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 8852e1b7146d58e14c15588cb84ed3b35f4bbb73fa37a93e18a1303a2102b0cf

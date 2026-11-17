@@ -1,5 +1,5 @@
 summary: A simple tool for calculation of IP networks
 webpage: https://kyberdigi.cz/projects/ipinfo/
 version: 1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/ipinfo-1.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 0f71c26ea77a7f9eede06e2d30cc737438047af61a3ace3e8bed82c25e614de8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/ipinfo-1.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 89c71c2448018b69fa401544433b9935bfb8dc271f4aeb3353b81c62af8fba28

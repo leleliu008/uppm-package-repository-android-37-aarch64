@@ -1,5 +1,5 @@
 summary: The C reference implementation of CommonMark
 webpage: https://commonmark.org/
 version: 0.31.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/cmark-0.31.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: d772292df191ad385ce2623b7f602716ba5fa980ed3c3b552180500cec78b354
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/cmark-0.31.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 864d741660acac90048f69c819e6e9e4bfe9bb8bc27f9d72371e2d3416282ae2

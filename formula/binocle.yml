@@ -1,5 +1,5 @@
 summary: A graphical tool to visualize binary data
 webpage: https://github.com/sharkdp/binocle
 version: 0.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/binocle-0.3.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: bf8a0a2d5e024ebb7cad4e586028fbac15cfcfae88bfb747e77876b1a031b647
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/binocle-0.3.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6dd5c9e75cc2b75d613731a9e90b889e5a3b299088df89ac66e1dd7d00524ceb

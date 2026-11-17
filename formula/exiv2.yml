@@ -1,5 +1,5 @@
 summary: A command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata
 webpage: https://exiv2.org/
 version: 0.28.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/exiv2-0.28.9-android-37-arm64-v8a.release.tar.xz
-bin-sha: 29e4c50a117e910d4f57b5b7195f5e35cf84413e328139a7a71da94a6af0cc6d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/exiv2-0.28.9-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2d7d2e991f93468fb5452e09d6ee78d847887ef20215c8e089039179c2bc361c

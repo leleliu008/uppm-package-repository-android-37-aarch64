@@ -1,5 +1,5 @@
 summary: New way of working with Protocol Buffers
 webpage: https://github.com/bufbuild/buf
 version: 1.75.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/buf-1.75.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 183c94143aae035a5f952333d140535db6fc92af5077b69446fa24aa048992b4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/buf-1.75.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 65e25ac290dc45b0b1f3ccb7d427117865f2c7f9f3b095c0fb0e8c9d7cfefbe4

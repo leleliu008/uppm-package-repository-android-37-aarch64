@@ -1,5 +1,5 @@
 summary: Power of curl, ease of use of httpie
 webpage: https://curlie.io
 version: 1.8.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/curlie-1.8.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: a43b0ca9cd9e2c33db24478977dac03634bc5eedc170e1c1c59c908e75ea1e8a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/curlie-1.8.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 56d1c98e9225412942dc9766818f55b3653d4cfb4a996f8d51d22217e3c73cc4

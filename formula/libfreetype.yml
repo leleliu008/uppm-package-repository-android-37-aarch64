@@ -1,5 +1,5 @@
 summary: C library to render fonts
 webpage: https://freetype.org/
 version: 2.15.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libfreetype-2.15.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: ea73f6911c2b8c041cce646d6c21314a4dcc837233012fad79f21a9d97e046c3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libfreetype-2.15.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: a0eabb3310fc2314e105bab994b49eb2516b1cd38ea10cb17c1a179b22d94b12

@@ -1,5 +1,5 @@
 summary: Cryptography and SSL/TLS Toolkit
 webpage: https://openssl-library.org/
 version: 4.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/openssl-4.1.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 7d3a43a945a254e81a37e4c4a9227b33d6d13ec697f88e3f7ab7d3bc6b1bdcab
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/openssl-4.1.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: ce6941f43a11c6df8b567dc7f44584a5cb98d04bee2ff8e46f129bde015d7a0f

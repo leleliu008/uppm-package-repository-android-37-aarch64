@@ -1,5 +1,5 @@
 summary: A command-line tool to read, write, modify, and display EXIF data
 webpage: https://libexif.github.io/
 version: 0.6.22
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/exif-0.6.22-android-37-arm64-v8a.release.tar.xz
-bin-sha: 2ac6c1c2f23bd40c20b2df98b5749a380e810bd67eca3ad46b207d3d6598b108
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/exif-0.6.22-android-37-arm64-v8a.release.tar.xz
+bin-sha: bf051e5cdbc75d1f9c1a248d1759654aa56778ca29ec74798cdcd527b5105e35

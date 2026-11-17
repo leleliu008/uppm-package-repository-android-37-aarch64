@@ -1,5 +1,5 @@
 summary: A library to render SVG files using Cairo
 webpage: https://gitlab.gnome.org/GNOME/librsvg
 version: 2.63.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/librsvg-2.63.4-android-37-arm64-v8a.release.tar.xz
-bin-sha: b0f173d111f71772c08b6a0e51c5bc034d85a588e19e3bf74f09467fd92273b5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/librsvg-2.63.4-android-37-arm64-v8a.release.tar.xz
+bin-sha: 7417e3f3048e87650791c5f0728de8980da6f4fac51fe7e9bc19c25bef15bf30

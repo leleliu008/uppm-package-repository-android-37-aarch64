@@ -1,5 +1,5 @@
 summary: Like grep but for binary strings
 webpage: https://github.com/tmbinc/bgrep
 version: 0.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/bgrep-0.3-android-37-arm64-v8a.release.tar.xz
-bin-sha: 06a50c1255cd1a94ceba7c89584dfef51fa1684dd81d4269a4fa69c744d05c09
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/bgrep-0.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: 9c9ee1294733d16ec414149718ec256e27fe5ff98f972341b367fb945f71c709

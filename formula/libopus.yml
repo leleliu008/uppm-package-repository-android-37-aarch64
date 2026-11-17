@@ -1,5 +1,5 @@
 summary: Audio codec
 webpage: https://www.opus-codec.org
 version: 1.6.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libopus-1.6.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 9928dc95f64d916b2bd59d8d513b3036026d552d1e3f4813dbe8c319c386b9db
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libopus-1.6.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: b6d0a29f116ab58208ab4dbe9a4a24ead57a71a98787933dda1b4ab07f32fd2a

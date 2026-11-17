@@ -1,5 +1,5 @@
 summary: C++ search engine library
 webpage: https://xapian.org/
 version: 2.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libxapian-2.1.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 862e38767b0cd237f26f90ec5f5801b2239eb7180e36e406c8b2917615f625ac
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libxapian-2.1.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: f620556f8ee5f81a14944f5282bf02e383d120be56d623356e4e0f480f272d17

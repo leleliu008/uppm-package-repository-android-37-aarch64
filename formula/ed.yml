@@ -1,5 +1,5 @@
 summary: Classic UNIX line editor
 webpage: https://www.gnu.org/software/ed
 version: 1.22.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/ed-1.22.6-android-37-arm64-v8a.release.tar.xz
-bin-sha: 2d4f1fed6dec3e0cbfd913e457c6ff236768814ed82480b6f9f78a93efda7175
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/ed-1.22.6-android-37-arm64-v8a.release.tar.xz
+bin-sha: 3d2f6484a91c3fd28ec700cd47e1ebc79938b704073287bcd5110ab5248a76d8

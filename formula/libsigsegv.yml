@@ -1,5 +1,5 @@
 summary: A library for handling page faults in user mode
 webpage: https://www.gnu.org/software/libsigsegv
 version: 2.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libsigsegv-2.16-android-37-arm64-v8a.release.tar.xz
-bin-sha: 017739441990ec7e0ce9d51db1c4795e8731f22f746d9dbcf263e2e9e919d6ea
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libsigsegv-2.16-android-37-arm64-v8a.release.tar.xz
+bin-sha: 0e58da1276a494f767d47f2feec94ef06a53176288b0617bb62ec2a9cd74c1c4

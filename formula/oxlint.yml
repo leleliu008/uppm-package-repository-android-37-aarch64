@@ -1,5 +1,5 @@
 summary: A suite of high-performance tools for JavaScript and TypeScript written in Rust
 webpage: https://oxc.rs/
 version: 1.93.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/oxlint-1.93.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: f1fa3df8458650dbca5d5d4fa6e47806b1b2f2e3300c8f58b7f71d419d898207
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/oxlint-1.93.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: c77fb9e7968b02852bad2ceb36b164ffa2efddda6071d433bb5a46ddc76c9153

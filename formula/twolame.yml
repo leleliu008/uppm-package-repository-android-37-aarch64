@@ -1,5 +1,5 @@
 summary: Optimized MPEG Audio Layer 2 (MP2) encoder
 webpage: https://www.twolame.org/
 version: 0.4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/twolame-0.4.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 6637042260f360ee7bbfa33d24c24edc2756cc333205b971c35a8c329f11c9ef
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/twolame-0.4.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 61a33247537d0c558d541ae3f4bb96f762318c3e2806f15621f4a5f0782c9fb4

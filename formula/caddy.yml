@@ -1,5 +1,5 @@
 summary: A powerful, enterprise-ready, open source web server with automatic HTTPS
 webpage: https://caddyserver.com/
 version: 2.11.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/caddy-2.11.9-android-37-arm64-v8a.release.tar.xz
-bin-sha: e044a7a581ba3fd3bdde807138509674399c134128cbb2b0ef4e2250aeb3d932
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/caddy-2.11.9-android-37-arm64-v8a.release.tar.xz
+bin-sha: a13ff326a3ae8345f7aca2678040878cb63b0086c9cefc1f3d78a3c966e1bdce

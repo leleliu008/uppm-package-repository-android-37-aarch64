@@ -1,5 +1,5 @@
 summary: Simple and intuitive command-line parser for C++11
 webpage: https://cliutils.github.io/CLI11/book/
 version: 2.7.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/cli11-2.7.2-android-aarch64.release.tar.xz
-bin-sha: 53761e20896f8d9d0a2cb328383fed2b60d4af55738dcc9d677f4e5367921caa
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/cli11-2.7.2-android-aarch64.release.tar.xz
+bin-sha: a39b5e4bc6406fd07126612ed2c6a4ba1bc42065f3d3afcf7a1a45ca45dbc452

@@ -1,5 +1,5 @@
 summary: library to spawn a process
 webpage: https://pubs.opengroup.org/onlinepubs/9799919799/functions/posix_spawn.html
 version: 1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/libposix_spawn-1-android-37-arm64-v8a.release.tar.xz
-bin-sha: d6860386cad9f7a165d05527a3dc864a75203b9ad86948660d3344f679b66576
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libposix_spawn-1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6319d71ed3239e3eb81742ac2ccf34a84ea7c8a1d61f1e7265c13f0b068df712

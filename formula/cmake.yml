@@ -1,5 +1,5 @@
 summary: Cross-platform make
 webpage: https://www.cmake.org/
 version: 4.4.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/cmake-4.4.5-android-37-arm64-v8a.release.tar.xz
-bin-sha: 6c614537be52bdbc02a55c9c135a16fe3ea7897b063ad20946c6ca29138febc6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/cmake-4.4.5-android-37-arm64-v8a.release.tar.xz
+bin-sha: 415230fb963da8773f90b1dd61bc9277d285312ed947270045439ad304e88a12

@@ -1,5 +1,5 @@
 summary: Reliable Internet Stream Transport (RIST)
 webpage: https://code.videolan.org/rist/
 version: 0.2.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/librist-0.2.20-android-37-arm64-v8a.release.tar.xz
-bin-sha: e2033dd9f6665eb5b6e4dd5bc800d3cc86f660e9678c090cabe41425423c0001
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/librist-0.2.20-android-37-arm64-v8a.release.tar.xz
+bin-sha: 05524bd8d19f08eb4218b9157b1e9a8efb57f4d1f81e23dc9402b071a6e98aae

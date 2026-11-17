@@ -1,5 +1,5 @@
 summary: A cross-platform TUI database management tool written in Go
 webpage: https://github.com/jorgerojas26/lazysql
 version: 0.7.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/lazysql-0.7.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: d276bb2b7dfcc501550a15e54ea0f2c9d603c7b3e6665f25a8cfd61386dcf7e8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/lazysql-0.7.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 8d3c06966e18410d26aa75fd4c3a05a89676b93b2054b5a90dbba4bec0d63bae

@@ -1,5 +1,5 @@
 summary: A command-line tool for synchronizing files
 webpage: https://rsync.samba.org/
 version: 3.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/rsync-3.5.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 758cbee4a06ee112c2125e9445db04f100588a34bb6c398766ab1f21d511cd47
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/rsync-3.5.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: fff1d1642784a31f2f9faf403c61b905119379f7661761bd9a8b6a170a61b87b

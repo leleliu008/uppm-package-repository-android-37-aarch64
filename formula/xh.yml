@@ -1,5 +1,5 @@
 summary: A friendly and fast tool for sending HTTP requests
 webpage: https://github.com/ducaale/xh
 version: 0.26.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.15.1/xh-0.26.3-android-37-arm64-v8a.release.tar.xz
-bin-sha: 3d6571d5f313f30d90f93f8ef8674a8d720d827d8a6b087ea79e4cb595fcc27d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/xh-0.26.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: 370e9dd1e48ae0cd9c17bf2dbf371343eb5658ada6f96428ed40daa113da3150
