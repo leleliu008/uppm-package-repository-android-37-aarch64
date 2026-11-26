@@ -1,5 +1,5 @@
 summary: GNU database manager
 webpage: https://www.gnu.org/software/gdbm
 version: 1.26
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libgdbm-1.26-android-37-arm64-v8a.release.tar.xz
-bin-sha: bf97ff998bfd4243e8ac429a020ae4282062536da36ae8fffc5dd8a8580988ec
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libgdbm-1.26-android-37-arm64-v8a.release.tar.xz
+bin-sha: 63b90fae3909c2990926e7767cc797d32f4548e80e4b95675c381ddd2ef5eae9

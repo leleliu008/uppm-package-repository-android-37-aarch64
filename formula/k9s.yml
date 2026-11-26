@@ -1,5 +1,5 @@
 summary: Kubernetes CLI To Manage Your Clusters In Style!
 webpage: https://k9scli.io/
 version: 0.51.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/k9s-0.51.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 1b8b7159a4740cd48826e6f72d2fc74377f43c847c2f86280e7a1ff3978066e6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/k9s-0.51.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 80ad4d6868408a37b1b456aedacdc06129a34b9c16e032b9613df211c2eafa61

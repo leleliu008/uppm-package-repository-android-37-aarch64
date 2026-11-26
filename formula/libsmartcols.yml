@@ -1,5 +1,5 @@
 summary: DCE compatible Universally Unique Identifier library
 webpage: https://mirrors.edge.kernel.org/
 version: 2.40.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libsmartcols-2.40.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 7ff2e343a37b9a6ffa5fd4768fa24265ffb7622413c941e3c43f2f331fed0c56
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libsmartcols-2.40.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1d47a21fe05fb6f488a18162708a710c22dadb2380d382efe5d05f5fb3da53bd

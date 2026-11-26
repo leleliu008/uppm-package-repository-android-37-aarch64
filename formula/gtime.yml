@@ -1,5 +1,5 @@
 summary: GNU implementation of time utility
 webpage: https://www.gnu.org/software/time
 version: 1.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/gtime-1.10-android-37-arm64-v8a.release.tar.xz
-bin-sha: d58cdbe6d7207f9a2d18864558989cac11c565c23b09cea139990b7172d170d2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/gtime-1.10-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1ba1916c23a1e208ab4120337dd5f8dfecac036fd338be1329a3a6eb52149d79

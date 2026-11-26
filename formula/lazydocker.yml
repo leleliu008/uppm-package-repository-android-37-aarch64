@@ -1,5 +1,5 @@
 summary: A simple terminal UI for both docker and docker-compose
 webpage: https://github.com/jesseduffield/lazydocker
 version: 0.25.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/lazydocker-0.25.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 0bf42eef89502045e19f5f97f3558d1e723654603873b57095797c0853f43837
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/lazydocker-0.25.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2ceb4732ef6c8628a6de5c3e97a0327cee305e498fefc33b6861c4cac28d53a3

@@ -1,5 +1,5 @@
 summary: A collection of command-line tools for interacting with high-throughput sequencing data
 webpage: https://www.htslib.org/
 version: 1.25
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/samtools-1.25-android-37-arm64-v8a.release.tar.xz
-bin-sha: 84cd060644632be5a3375a793a2b5be30870aadca8a20d81f2b02945c868d670
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/samtools-1.25-android-37-arm64-v8a.release.tar.xz
+bin-sha: 536e3c0acba79184eb78d1e2ecd34bbe1c885cdb1a21948774e09688ef7eedb2

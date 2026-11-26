@@ -1,5 +1,5 @@
 summary: A command-line tool to display file content or data from standard input in a human-readable format
 webpage: https://www.25thandclement.com/~william/projects/hexdump.c.html
 version: 20181215
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/hexdump-20181215-android-37-arm64-v8a.release.tar.xz
-bin-sha: bf274102b85c54bc631697ee3bdc8af295b9cf6ca6b0b70eade624049fcb740e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/hexdump-20181215-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1980a4c18599ce00f429e1bf4b764dce6a1b596ad09a0a832af66aeb114061e5

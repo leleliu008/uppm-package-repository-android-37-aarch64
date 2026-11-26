@@ -1,5 +1,5 @@
 summary: Common error values for all GnuPG components
 webpage: https://www.gnupg.org/related_software/libgpg-error
 version: 1.61
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libgpg-error-1.61-android-37-arm64-v8a.release.tar.xz
-bin-sha: f2bec67cfe65c41c37b31220d75c5a0e4b667b8d69c4eaacc924e6f1e05703ae
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libgpg-error-1.61-android-37-arm64-v8a.release.tar.xz
+bin-sha: b6a3977d4c2142c86f8d6de47f87ffd2f099bd5779e13554ca1f3241cb3908f9

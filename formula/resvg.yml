@@ -1,5 +1,5 @@
 summary: A command-line tool to convert SVG to PNG
 webpage: https://github.com/linebender/resvg
 version: 0.50.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/resvg-0.50.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: ebcc2d40fdde2a49faf82b9b6e3d132a9acacbf1797e4108eb89afbbecd85b80
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/resvg-0.50.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 0238dcfb1643cce1df64588b4373ce7f06d138f8b107f438a135c9453c35b4a9

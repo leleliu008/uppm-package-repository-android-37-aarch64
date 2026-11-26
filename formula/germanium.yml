@@ -1,5 +1,5 @@
 summary: Generate image from source code
 webpage: https://github.com/matsuyoshi30/germanium
 version: 1.2.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/germanium-1.2.3-android-37-arm64-v8a.release.tar.xz
-bin-sha: 6b6545502cb4ac5c21f61838577e3fde18bae2f1c760be21af9c2fe14c842cfe
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/germanium-1.2.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2472e4f5fdef012002f800bdbe35522db2acaadb0728304f57b6ef52533cf6cf

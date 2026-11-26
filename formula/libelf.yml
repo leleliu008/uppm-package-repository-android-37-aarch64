@@ -1,5 +1,5 @@
 summary: C library to read, create and modify ELF binary files
 webpage: https://manpath.be/osol9/3lib/libelf
 version: 0.8.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libelf-0.8.13-android-37-arm64-v8a.release.tar.xz
-bin-sha: b3d8ae388e49121a74e5d23528b1651735d1063f88a53f4c60c92e9069f80a25
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libelf-0.8.13-android-37-arm64-v8a.release.tar.xz
+bin-sha: fee6c2d8c1059f7b6b0e83d8024efdea089df72c4d01a4d41c165b0b6013f361

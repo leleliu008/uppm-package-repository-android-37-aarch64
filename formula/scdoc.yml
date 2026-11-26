@@ -1,5 +1,5 @@
 summary: A small man page generator
 webpage: https://sr.ht/~sircmpwn/scdoc/
 version: 1.11.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/scdoc-1.11.5-android-37-arm64-v8a.release.tar.xz
-bin-sha: 050fff48a42dbbe15fa73affe8eee693854614f959a1963295bd4fd3ea51ae54
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/scdoc-1.11.5-android-37-arm64-v8a.release.tar.xz
+bin-sha: 86176ccd1b3b7f38b973c31c6593851c22b5e1a6cca66a6a8d4eb4f3dd50d1f5

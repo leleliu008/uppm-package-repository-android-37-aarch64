@@ -1,5 +1,5 @@
 summary: A pretty fast disk usage analyzer with console interface written in Go
 webpage: https://github.com/dundee/gdu
 version: 5.39.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/gdu-5.39.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 2099a552abd1a011cd429fef214e63f394f45a16cd65d331cac82b518cc44b52
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/gdu-5.39.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 02f1111d90a465d9f17fa0279026ab12f22c337cad302d257b295e6e3349a710

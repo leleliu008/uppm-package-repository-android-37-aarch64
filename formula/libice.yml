@@ -1,5 +1,5 @@
 summary: X.Org Inter-Client Exchange Library
 webpage: https://xorg.freedesktop.org/
 version: 1.1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libice-1.1.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 67368c8429298c3cb4b66cca621958234bda9be00b34988049c3de8dfc511dce
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libice-1.1.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 672746fa33fc9a108f1ef65ac4113bda88d8c547219c5f33d066d820b186d8a6

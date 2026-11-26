@@ -1,5 +1,5 @@
 summary: Scaling, colorspace conversion, and dithering library
 webpage: https://github.com/sekrit-twc/zimg
 version: 3.0.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libzimg-3.0.6-android-37-arm64-v8a.release.tar.xz
-bin-sha: 8c7a5d3b0e05f8645166396d75eef2c6ed2ff34bcf8c3db3bad19aefdcb33ddb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libzimg-3.0.6-android-37-arm64-v8a.release.tar.xz
+bin-sha: e67775ae958107cc75e9197823c93efcd4bcc0ee505506b15e3891a3f7ac5167

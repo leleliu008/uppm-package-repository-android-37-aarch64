@@ -1,5 +1,5 @@
 summary: Modern watch command
 webpage: https://github.com/sachaos/viddy
 version: 1.3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/viddy-1.3.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 6fb306e854d7e54bf5c5d8bb22e0be302cf5e4beafc4f91f720a42344eff6adb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/viddy-1.3.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: f52706809c46e7ba502866b5b177a029798fcd45821323e389ef229b243b5817

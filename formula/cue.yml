@@ -1,5 +1,5 @@
 summary: Validate and define text-based and dynamic configuration
 webpage: https://cuelang.org/
 version: 0.17.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/cue-0.17.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: c6ad0ab62dfa080c81a38852c23f7e521a4a9213693f8de9c9ffa618b6e4583d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/cue-0.17.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 24c800b4f12b0b9815000e5c41a5958cec3a63c4fc28efb3566f97bfdee52ad6

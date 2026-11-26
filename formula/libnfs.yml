@@ -1,5 +1,5 @@
 summary: C client library for NFS
 webpage: https://github.com/sahlberg/libnfs
-version: 8.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libnfs-8.0.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: e06aee6ee4ab9bc6025dd1d71c9b30f77b5b8aa3433c82e0b16afd6333db9252
+version: 8.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libnfs-8.1.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 891aeabd67f0c67a488e4b61686b195ee73ca2aacd2732f1111890e592f2e677

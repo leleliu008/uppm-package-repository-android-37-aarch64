@@ -1,5 +1,5 @@
 summary: A package of several programs related to finding differences between files
 webpage: https://www.gnu.org/software/diffutils
 version: 3.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/diffutils-3.10-android-37-arm64-v8a.release.tar.xz
-bin-sha: 84876ad9c59e31b15ace4eb745f176c077423984ad42dc19b585e180039dcc0c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/diffutils-3.10-android-37-arm64-v8a.release.tar.xz
+bin-sha: 57ca08ca4c43a9e9aa78a2ba0fb5dfcf01cbf1d6d1e2e1753adcd26bee3a53f3

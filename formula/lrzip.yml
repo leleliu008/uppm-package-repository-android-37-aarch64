@@ -1,5 +1,5 @@
 summary: Compression program with a very high compression ratio
 webpage: http://lrzip.kolivas.org
 version: 0.651
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/lrzip-0.651-android-37-arm64-v8a.release.tar.xz
-bin-sha: 9289800545a448bea05c05bdf93f5a6b4ebdad4c7385ac0c00cc9fbbadd4a772
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/lrzip-0.651-android-37-arm64-v8a.release.tar.xz
+bin-sha: a0d87801b1ba2effee1ad7ed4e98b7b27ab8057803b275e86a6965092b32db8a

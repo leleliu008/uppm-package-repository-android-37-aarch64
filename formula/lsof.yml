@@ -1,5 +1,5 @@
 summary: A command-line tool to list open files
 webpage: https://people.freebsd.org/~abe
 version: 4.99.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/lsof-4.99.7-android-37-arm64-v8a.release.tar.xz
-bin-sha: 062eeabe5f6c050645c849ad8a2f976588135f3860e51422ec90d98763052ced
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/lsof-4.99.7-android-37-arm64-v8a.release.tar.xz
+bin-sha: d34ee4389c2e5aa096128fc8fc1f03c9c3483c9441c479e2de031fa4f75ad350

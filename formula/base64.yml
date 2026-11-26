@@ -1,5 +1,5 @@
 summary: base64 encoder and decoder
 webpage: https://www.fourmilab.ch/webtools/base64/
 version: 1.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/base64-1.5-android-37-arm64-v8a.release.tar.xz
-bin-sha: 5038e82c20384f58297f8e81a4f772b1dcdaffd14b55491ee1457250d992a317
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/base64-1.5-android-37-arm64-v8a.release.tar.xz
+bin-sha: b5cdf10279786baed3cc5cccd4b52849092d3a44ded7197a299a16a611bcb6a4

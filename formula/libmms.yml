@@ -1,5 +1,5 @@
 summary: Library for parsing mms and mmsh network streams
 webpage: https://sourceforge.net/projects/libmms/
 version: 0.6.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libmms-0.6.4-android-37-arm64-v8a.release.tar.xz
-bin-sha: d220434338d517558e033e6dcb9407d1af8f57372975f49515e33ae75d99b412
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libmms-0.6.4-android-37-arm64-v8a.release.tar.xz
+bin-sha: 386e515578edeef8ffba75350ae8b835fa3c9b4ab6b94f8ca31522b4e579beb4

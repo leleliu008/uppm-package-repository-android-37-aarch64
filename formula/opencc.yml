@@ -1,5 +1,5 @@
 summary: Simplified-traditional Chinese conversion tool
 webpage: https://github.com/BYVoid/OpenCC
 version: 1.2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/opencc-1.2.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: e6091e8c1a72ef1e5a71da1f0cb7890467a52a1a3cbfc002f8a2a53f218698ad
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/opencc-1.2.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 32de202398e4f3e7ad763525b538c04697a1fa2bb6a831cfb883328e81a51d7f

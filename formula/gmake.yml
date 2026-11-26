@@ -1,5 +1,5 @@
 summary: Utility for directing compilation
 webpage: https://www.gnu.org/software/make
 version: 4.4.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/gmake-4.4.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 9b7f6c8fcfa25f9d07e8586b0bb9e46bf6ab55acb2f1bfd992d538eb67f411ea
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/gmake-4.4.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 9a73d4af5890e83462fd7d715bd88c8d126d7895cf601cca5daa12b7fe35e2d9

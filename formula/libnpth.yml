@@ -1,5 +1,5 @@
 summary: New GNU portable threads library
 webpage: https://www.gnupg.org/software/npth/
 version: 1.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libnpth-1.8-android-37-arm64-v8a.release.tar.xz
-bin-sha: 613ee85d598f0ccfb261f925cd5819528bf71ffe9fd17c763be280a83fef56e4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libnpth-1.8-android-37-arm64-v8a.release.tar.xz
+bin-sha: 26b490cb1a07afa2eb20f148690a24d9ca9d6549d462407a409cd97c6e438842

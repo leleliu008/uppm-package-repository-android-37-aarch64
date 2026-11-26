@@ -1,5 +1,5 @@
 summary: Modern Linker
 webpage: https://github.com/rui314/mold
 version: 3.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/mold-3.0.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 0d45fa174f060a1026b415430b8bf5aff1acc826c0c6b04538259ee762859ffd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/mold-3.0.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: e2f0705c01c69d21d7243286171614bae96a38e6090014bb4d78edaffe3d1ced

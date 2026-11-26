@@ -1,5 +1,5 @@
 summary: A command-line tools for diff & patch
 webpage: https://github.com/sisong/HDiffPatch
 version: 5.1.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/hdiffpatch-5.1.3-android-37-arm64-v8a.release.tar.xz
-bin-sha: 8fee68a0bbe9b0c6eba51e6089dc2ecb00d0d319f432d681593cc88b0b2c55ba
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/hdiffpatch-5.1.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: ecf61fc24e896e3f3e41f01072af07ffd74886080600ca1c8f4ed73db3efa8e6

@@ -1,5 +1,5 @@
 summary: crypt(3) implementation
 webpage: http://michael.dipperstein.com/crypt
 version: 1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libcrypt-1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 911c2f5ef11b974a9770c51d6a7e3090f12a5a08de2ced4901bbb275367b1b6e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libcrypt-1-android-37-arm64-v8a.release.tar.xz
+bin-sha: cab2fbaa18b88cb6bfeea80cd0fb52056c49b53af0c57574c4dd65eb75da296f

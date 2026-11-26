@@ -1,5 +1,5 @@
 summary: Library for writing preformatted data onto optical media e.g. CD, DVD and BD (Blu-Ray)
 webpage: https://www.libburnia-project.org
 version: 1.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libburn-1.5.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: cde2af3e62d63e6822b6df7a0eae054239511007b9d0a228e7802f0ce3cf907f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libburn-1.5.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 8369d2898da2699baabe010d5ca70ce9e234162ce7c0e702bbe96f07b2fc5f6e

@@ -1,5 +1,5 @@
 summary: C library that may be linked into a C/C++ program to produce symbolic backtraces
 webpage: https://github.com/ianlancetaylor/libbacktrace
-version: 2026.11.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libbacktrace-2026.11.16-android-37-arm64-v8a.release.tar.xz
-bin-sha: 24a4b266a528a8085b2b42d6e6d75ad33220ad51a4cd526ad0bbf463b4100c59
+version: 2026.11.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libbacktrace-2026.11.23-android-37-arm64-v8a.release.tar.xz
+bin-sha: 0ab37bf9762193f2bcc26a971c4e67d770d6d756cc69a59cd266933ad7591844

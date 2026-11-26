@@ -1,5 +1,5 @@
 summary: Physics SDK
 webpage: https://bulletphysics.org/
 version: 3.25
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/bullet-3.25-android-37-arm64-v8a.release.tar.xz
-bin-sha: db6a92a35024e87a7b8525ae982bfe86c11f61eaf4a3c6a1b982ac4cd7def698
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/bullet-3.25-android-37-arm64-v8a.release.tar.xz
+bin-sha: 3458ef2202ec62c5b6b5ca7b69c53d140307b92e6a30145f97c3b721e91510fe

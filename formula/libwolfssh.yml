@@ -1,5 +1,5 @@
 summary: A small, fast, portable SSH implementation, including support for SCP and SFTP
 webpage: https://github.com/wolfSSL/wolfssh
 version: 1.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libwolfssh-1.6.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 159d1bdce843a87eacb9522e0198ca3864fad596897f1d3393724146cfe7f3cb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libwolfssh-1.6.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 68268af9180385adc5b5c170402728631a0421b05bd0ece817a826cfe8190c4f

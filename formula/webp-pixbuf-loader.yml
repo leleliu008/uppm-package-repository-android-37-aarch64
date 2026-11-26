@@ -1,5 +1,5 @@
 summary: WebP Image format GdkPixbuf loader
 webpage: https://github.com/aruiz/webp-pixbuf-loader
 version: 0.2.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/webp-pixbuf-loader-0.2.7-android-37-arm64-v8a.release.tar.xz
-bin-sha: da5f41f98870074aba62e8468006634f107d1b6126457c4a61d7c25f3b6ae0d2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/webp-pixbuf-loader-0.2.7-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6214cbb48cce5509b6b34413b72943ee6618750d1b0c890025341b7271d47902

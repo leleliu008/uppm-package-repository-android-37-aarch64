@@ -1,5 +1,5 @@
 summary: C library to provide abstract access to various archives
 webpage: https://icculus.org/physfs/
 version: 3.2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libphysfs-3.2.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 4ab36b39e4c36a4ece49379d364b35e9bc9c71922c169eea367a76223e3e0ed5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libphysfs-3.2.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1c7bc5dd44e9e18d231b94b2dfce3f971135f707eb32dcbf9338822d57c3dd3e

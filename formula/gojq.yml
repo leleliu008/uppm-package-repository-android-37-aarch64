@@ -1,5 +1,5 @@
 summary: An implementation of jq in pure golang
 webpage: https://github.com/itchyny/gojq
 version: 0.12.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/gojq-0.12.20-android-37-arm64-v8a.release.tar.xz
-bin-sha: 6b28b0d801db628f2024e42d929bf4f48afc7fedc9db847af0a19dc58aa1b13e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/gojq-0.12.20-android-37-arm64-v8a.release.tar.xz
+bin-sha: d063360d59c83f9157473ccfc4ef177415f19b0dca1ad18f624f43cba6a0485b

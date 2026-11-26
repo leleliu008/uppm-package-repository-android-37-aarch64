@@ -1,5 +1,5 @@
 summary: Manage your dotfiles across multiple diverse machines, securely
 webpage: https://chezmoi.io/
-version: 2.74.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/chezmoi-2.74.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 363b2b4b401f74ea6b71398d4dcfe9baff56ecf5ca54f6add1c638869e44d26b
+version: 2.74.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/chezmoi-2.74.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: dc4cfd9b6b186e32a9b17a4381c18e56dc33d34c43f6a665fb32f6a6d709dbcd

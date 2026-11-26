@@ -1,5 +1,5 @@
 summary: GNU netcat is a GNU rewrite of the classic netcat (aka nc) utility for reading and writing data on TCP and UDP streams
 webpage: https://netcat.sourceforge.net/
 version: 0.7.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/netcat-0.7.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 1714a26a7a9a307070cbb591a7f5dbca62023e9b90bf84b96a27cf410758a744
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/netcat-0.7.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 3bf93d9846bcfd0d0ac0ca7b97bdc4af4b1c13751df8cdffc30792b0874dbe7b

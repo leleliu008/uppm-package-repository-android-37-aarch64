@@ -1,5 +1,5 @@
 summary: F-Droid client
 webpage: https://github.com/Hoverth/fdroidcl
 version: 0.8.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/fdroidcl-0.8.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 211ffab46a5dca150bfa31fc23f66f6e702039141677fe0f8e3a5d4c9cc9d257
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/fdroidcl-0.8.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: eb19d64dd408582fa5ea617ac29986622d1ac0b65c61ae6689ebadcd8440eab9

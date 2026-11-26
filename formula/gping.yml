@@ -1,5 +1,5 @@
 summary: Ping, but with a graph
 webpage: https://github.com/orf/gping
 version: 1.21.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/gping-1.21.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: ec4179e99e606887ab1fa916dcf6af25bee812b7b0276da1bd1beefe23495b23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/gping-1.21.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 727b1a60ccd192074c2eb75c3b1520347a9df8f0ad57ca36028b6a1b89d3ad4a

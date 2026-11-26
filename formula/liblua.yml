@@ -1,5 +1,5 @@
 summary: Powerful, lightweight programming language
 webpage: https://www.lua.org/
 version: 5.5.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/liblua-5.5.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 90ac16397bf926e8cfcaa28bf5aeb61a85b3b2ad36d0f57ac03dbab0c77fd88b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/liblua-5.5.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 36d8cc95a1c7f7bf9c58a49e44e0ceb85de551363f00022550a6fb51093764f9

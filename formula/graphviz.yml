@@ -1,5 +1,5 @@
 summary: An open source graph visualization software
 webpage: https://www.graphviz.org/
-version: 16.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/graphviz-16.1.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: d961e6dc107e358e7cc924faa1856c69655d6ebf3b5313f48aae880c79989830
+version: 16.1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/graphviz-16.1.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 7bf5c3ec6e0d63684ec7243e18e669b881f37741d2f09becb42a3180f0bef15f

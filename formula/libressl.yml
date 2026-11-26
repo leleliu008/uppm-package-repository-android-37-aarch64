@@ -1,5 +1,5 @@
 summary: Version of the SSL/TLS protocol forked from OpenSSL
 webpage: https://www.libressl.org/
 version: 4.4.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libressl-4.4.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 8be07309c1b06a13b9d0fb88d831f91d5e279e4e41f882fcd112ac48d98fe09a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libressl-4.4.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 0bafbe127dcf6675de0d1d4abce7ccdd13ec7a24582b66ac133895bbed719f3b

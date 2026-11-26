@@ -1,5 +1,5 @@
 summary: ranger-like terminal file manager written in Rust
 webpage: https://github.com/kamiyaa/joshuto
 version: 0.9.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/joshuto-0.9.9-android-37-arm64-v8a.release.tar.xz
-bin-sha: 698c2dfe8828e75f3614f540ec56df0615fc4cd244d7014bc79a2a8c86396edd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/joshuto-0.9.9-android-37-arm64-v8a.release.tar.xz
+bin-sha: c61a412fc60ec290d2b0f10eb621fcf37ea6623fa5a23fcd08d9cf47b60fb142

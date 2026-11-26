@@ -1,5 +1,5 @@
 summary: An independent package manager for compiled binaries
 webpage: https://github.com/marwanhawari/stew
 version: 0.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/stew-0.6.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: e8a6c2d739977ee899bc867f019b05a1c1a1b381b8797a5f4c5d8b8f167090d8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/stew-0.6.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 69f87276904a8a9f411354c71df9a762db7e26816f6b9cb352a8f41b554c2d94

@@ -1,5 +1,5 @@
 summary: Okta federated identity for AWS CLI
 webpage: https://github.com/okta/okta-aws-cli
 version: 2.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/okta-aws-cli-2.6.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 36ed46c5a1f703b3fdcab29283b2477e0d3ed8c47338f76ea2a41f712869942a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/okta-aws-cli-2.6.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 441d8aed3b4704ce652775165f2115924447896a6986fdf791c7ef35479d8d7e

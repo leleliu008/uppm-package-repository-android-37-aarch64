@@ -1,5 +1,5 @@
 summary: C library for jq
 webpage: https://jqlang.github.io/jq/
 version: 1.8.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libjq-1.8.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 85a4ae0cba209f7f33272b8fc804085335dd887950bfeb00981e16368310b914
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libjq-1.8.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 4ad6c73f39eb002315d71291cbc59f1ede30e4d88e1a363fc7e917990f318559

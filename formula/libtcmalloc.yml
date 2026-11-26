@@ -1,5 +1,5 @@
 summary: A high-performance multi-threaded malloc() implementation
 webpage: https://github.com/gperftools/gperftools
 version: 2.19.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libtcmalloc-2.19.3-android-37-arm64-v8a.release.tar.xz
-bin-sha: 826de779d29ae952cfb26d303c582701eeab4a426ea5a543b4f9b4497b12be8b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libtcmalloc-2.19.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: a1f58b677829b461704b7880f909b76e58ba162236af3ec960eb488a0d60bb7b

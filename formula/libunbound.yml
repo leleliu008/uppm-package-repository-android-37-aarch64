@@ -1,5 +1,5 @@
 summary: Validating, recursive, caching DNS resolver
 webpage: https://www.unbound.net
 version: 1.26.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libunbound-1.26.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: e76ec193facfd9b5b739d7bf0de67b53d5fc3c7c52110824ec8d81d0efb794aa
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libunbound-1.26.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: e7e0f42af26e5fd5a56cc160dd43025f9f90a49e4b2e75818318e74db0c21073

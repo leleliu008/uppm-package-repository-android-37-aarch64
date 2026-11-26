@@ -1,5 +1,5 @@
 summary: JSON output from a shell
 webpage: https://github.com/jpmens/jo
 version: 1.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/jo-1.9-android-37-arm64-v8a.release.tar.xz
-bin-sha: 7d72cacca50a48551871d500eacf15efd519fea906ecd833ebaeeebcb8afba21
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/jo-1.9-android-37-arm64-v8a.release.tar.xz
+bin-sha: 25d177d8d7431d70aa2a4793aac9627ab8f004d118cfdc043fd28be5d9d99f37

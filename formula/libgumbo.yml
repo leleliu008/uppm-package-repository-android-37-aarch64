@@ -1,5 +1,5 @@
 summary: C99 library for parsing HTML5
 webpage: https://codeberg.org/gumbo-parser/gumbo-parser
 version: 0.14.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libgumbo-0.14.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: ae8092c56ea463222cf5fb80d367296faee512dd1fc13330cda489c3af89e058
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libgumbo-0.14.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: ed3ccd5e36dc234bd8586514497e7a65d27af32bebeb965a9aca00af11b2f172

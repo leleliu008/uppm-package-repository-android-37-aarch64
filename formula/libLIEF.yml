@@ -1,5 +1,5 @@
 summary: Library to Instrument Executable Formats
 webpage: https://github.com/lief-project/LIEF
 version: 1.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libLIEF-1.0.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 1cf55fe5442435ecf74bc095c409dd420f4ba932df61b28d51a86b77f0de9fb2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libLIEF-1.0.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 8335cdc70188834072b2dd9ebb216461e9a92830c3798f22b0449aea73f619eb

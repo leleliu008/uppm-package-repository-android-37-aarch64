@@ -1,5 +1,5 @@
 summary: A command-line JSON viewer designed for reading, exploring, and searching through JSON data
 webpage: https://jless.io/
 version: 0.9.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/jless-0.9.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 320a020439288eb71a4fcd1801ae56dba73c61e90368ba8ebf4e0c1112486b09
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/jless-0.9.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 8fd4f65cd42c500271d5a98cf03d96804ff6f29889b1a48209ff3ccc43fcdd0a

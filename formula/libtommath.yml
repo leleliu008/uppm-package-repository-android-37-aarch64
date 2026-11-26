@@ -1,5 +1,5 @@
 summary: C library for number theoretic multiple-precision integers
 webpage: https://www.libtom.net/LibTomMath/
 version: 1.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libtommath-1.3.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: a24451b2be7229076cef6557ba296c7e8a5a6b9f670da53a8cc36d2dbf117e4b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libtommath-1.3.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2130f157c711041bacf93367816dcc1afd4983b1948a38049e7a452fb0a84bba

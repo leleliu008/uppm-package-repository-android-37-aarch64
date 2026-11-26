@@ -1,5 +1,5 @@
 summary: Tiny, lightning fast, feature-packed file manager
 webpage: https://github.com/jarun/nnn
 version: 5.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/nnn-5.3-android-37-arm64-v8a.release.tar.xz
-bin-sha: cb47ae249cb6ebaf28c99ed4c00b6997c93e31f3db429088877b2b28ee290759
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/nnn-5.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2de71b094c8ce3208886dd6b3f42cdf1eca7dd58ce9f44c8da712891e1e2b980

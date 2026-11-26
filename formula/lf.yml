@@ -1,5 +1,5 @@
 summary: Terminal file manager
 webpage: https://github.com/gokcehan/lf
 version: r42
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/lf-r42-android-37-arm64-v8a.release.tar.xz
-bin-sha: 5a62918b9bfa88f70a0d45258c9f8b74da6a13fcd8f281e97a21575a830c2575
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/lf-r42-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1290e53a77551eb6e1039f53ba5717622613d191916633b2f469785ea335735d

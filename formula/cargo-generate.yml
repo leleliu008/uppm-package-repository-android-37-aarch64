@@ -1,5 +1,5 @@
 summary: Use pre-existing git repositories as templates
 webpage: https://github.com/cargo-generate/cargo-generate
 version: 0.26.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/cargo-generate-0.26.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 0ca25ef65cb09849c2d551a638dc8c5055a582c47631c77576c7c36add1aad8f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/cargo-generate-0.26.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 5db81ec6c8ac57e973c8eeff86092a81249c5ef73e17b25b4c9869ce3dab6708

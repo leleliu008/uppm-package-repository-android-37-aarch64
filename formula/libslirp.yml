@@ -1,5 +1,5 @@
 summary: A general purpose TCP-IP emulator used by virtual machine hypervisors to provide virtual networking services
 webpage: https://gitlab.freedesktop.org/slirp/
 version: 4.9.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libslirp-4.9.7-android-37-arm64-v8a.release.tar.xz
-bin-sha: 0aa1cb09b4996914b6a466d161514f8381a7f39467f41623a419efb3afb231d2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libslirp-4.9.7-android-37-arm64-v8a.release.tar.xz
+bin-sha: cc4d8701077041826c1c858628df9f3f6c0c7b256050d24e2b30a0cf0e749fdc

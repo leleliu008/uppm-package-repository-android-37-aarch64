@@ -1,5 +1,5 @@
 summary: A VIM-inspired file manager for the console
 webpage: https://ranger.github.io/
 version: 1.9.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/ranger-1.9.4-android-aarch64.release.tar.xz
-bin-sha: 7a9062a6a4cc12c4be0ba11e51a658e33a44bd170d8c928cc716b2c7af8c3cc7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/ranger-1.9.4-android-aarch64.release.tar.xz
+bin-sha: 28ab307695cc8938836941cc05f78dc1672b21751ba883f323d689bdbf1cebbe

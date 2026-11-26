@@ -1,5 +1,5 @@
 summary: Web Assembly Binary Toolkit
 webpage: https://github.com/WebAssembly/wabt
 version: 1.0.42
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/wabt-1.0.42-android-37-arm64-v8a.release.tar.xz
-bin-sha: fc1a3be0a63908f1e9251c6a8c693dea38de4ea17c91b6a5feda7714eb930816
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/wabt-1.0.42-android-37-arm64-v8a.release.tar.xz
+bin-sha: 92a2e0823718f19525102b5efa09c703cf1322a743a2ec410124a4a980a96679

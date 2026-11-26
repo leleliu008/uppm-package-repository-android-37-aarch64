@@ -1,5 +1,5 @@
 summary: X.Org XML-XCB protocol descriptions for libxcb code generation
 webpage: https://xorg.freedesktop.org/
 version: 1.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/xcb-proto-1.17.0-android-aarch64.release.tar.xz
-bin-sha: b9f14b9ec35ea13086af6f27ec0dc53e8c0ce7c055ca8b4448bafdb70c70c39c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/xcb-proto-1.17.0-android-aarch64.release.tar.xz
+bin-sha: e1205c26e094cea2dd87c72b2a56fe7360a406b668db6359489586064d3b9289

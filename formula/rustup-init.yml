@@ -1,5 +1,5 @@
 summary: Rust toolchain installer
 webpage: https://github.com/rust-lang/rustup
 version: 1.29.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/rustup-init-1.29.3-android-37-arm64-v8a.release.tar.xz
-bin-sha: 96ccd72da49182ed3df5fd722e18ae8c69d0a4a28f22b034314025f3c5785648
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/rustup-init-1.29.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: fe0a70087acc57827fa0ce08112f65ccc39ec1a003c7ae630609070db8120673

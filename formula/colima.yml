@@ -1,5 +1,5 @@
 summary: container runtimes on macOS (and Linux) with minimal setup
 webpage: https://github.com/abiosoft/colima
 version: 0.10.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/colima-0.10.3-android-37-arm64-v8a.release.tar.xz
-bin-sha: 729462e60e437e45eb089c8519799612c8b72168bb0722627a311de8a8eac283
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/colima-0.10.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: 3eaecc4c9f06faaf27c47724470c14db39fe8280d221739de87b4579c2972bce

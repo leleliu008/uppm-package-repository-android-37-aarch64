@@ -1,5 +1,5 @@
 summary: An open-source library for manipulating ID3v1 and ID3v2 tags
 webpage: https://id3lib.sourceforge.io
 version: 3.8.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libid3-3.8.3-android-37-arm64-v8a.release.tar.xz
-bin-sha: c51b6af8f247d73f129d73dc30a306bcfe928bc6d6df3c048d4ea2475a0b1887
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libid3-3.8.3-android-37-arm64-v8a.release.tar.xz
+bin-sha: 04292805bc15fd690d755d7a2e3eb9fb30b5d5767a6436c1469fe4ed56f864ba

@@ -1,5 +1,5 @@
 summary: A bash syntax highlighter that encourages/fixes variables quoting
 webpage: https://github.com/anordal/shellharden
 version: 4.3.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/shellharden-4.3.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 11cdc679034017f5494e2dcd8a8dcbaff3f862d0a53ce726bd647609a4b835f0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/shellharden-4.3.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: 5a620e32d060c41abcddbf672d78157928c5bae466555a2130edbf23a1431021

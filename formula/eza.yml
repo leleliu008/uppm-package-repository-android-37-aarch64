@@ -1,5 +1,5 @@
 summary: A modern alternative to ls(1)
 webpage: https://github.com/eza-community/eza
 version: 0.23.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/eza-0.23.5-android-37-arm64-v8a.release.tar.xz
-bin-sha: e9e3a63b8fbfb383f2ad7d587b37cc9af76c1b40875a1c5afa30a74ffaa73eba
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/eza-0.23.5-android-37-arm64-v8a.release.tar.xz
+bin-sha: 06bcc126b07a526c7714c24b3e13f707e3609ea83d7d6355d060b01843da46a1

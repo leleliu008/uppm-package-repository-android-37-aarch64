@@ -1,5 +1,5 @@
 summary: HTTP load testing tool and library
 webpage: https://github.com/tsenart/vegeta
 version: 12.13.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/vegeta-12.13.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 93899a7468725b91742d235a62fad4015c95b976b63dc725c81c6eddd82ad11d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/vegeta-12.13.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 232d5900581375ed3d4d8ba91eff29949aa11c7f353770344f9bc47469e9ed26

@@ -1,5 +1,5 @@
 summary: A command-line interface to the libfribidi library and can be used to convert a logical string to visual output
 webpage: https://github.com/fribidi/fribidi
 version: 1.0.18
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/fribidi-1.0.18-android-37-arm64-v8a.release.tar.xz
-bin-sha: 371675762d9f9a636d1b5f94654563d62a3cb50d573a9df6393e4b33ede32f35
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/fribidi-1.0.18-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6ad41487d269ac8e8491ceeaaf62b374176f459af524022741eae9ae970f9d7c

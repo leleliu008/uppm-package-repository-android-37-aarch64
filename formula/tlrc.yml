@@ -1,5 +1,5 @@
 summary: Official tldr client written in Rust
 webpage: https://github.com/tldr-pages/tlrc
 version: 1.13.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/tlrc-1.13.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: d8c8befc27e6504fbda0fe020a7891ca6a1e0edb50d86ff7cae2b1dad87676cd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/tlrc-1.13.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 4a80053a3ef5dd11cca45689be356d222f6b15884131ff5a0b0015e10db66b19

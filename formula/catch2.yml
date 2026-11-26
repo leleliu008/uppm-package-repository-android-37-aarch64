@@ -1,5 +1,5 @@
 summary: Modern, C++-native, header-only, test framework
 webpage: https://github.com/catchorg/Catch2
 version: 3.16.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/catch2-3.16.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: f7bb4c78ea6beb044d27c259a337e95bc9bce32e374f8f39b485f595f9ac1f72
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/catch2-3.16.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1b4dafe37c57089380df944565c24d67418fec90608e3d9ad4a9f06b9993d7c5

@@ -1,5 +1,5 @@
 summary: Insanely fast image printing in your terminal
 webpage: https://github.com/posva/catimg
 version: 2.8.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/catimg-2.8.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: c9c4db86dc9f713518f43dca3d60f34bf57a541004b3c2b82f6b63fb04fbd60b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/catimg-2.8.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 6e5e81250eac54db108a05ce46847ccb77c2ce0dce70b76cf1ef6696a548a108

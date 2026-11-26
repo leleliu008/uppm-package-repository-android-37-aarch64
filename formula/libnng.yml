@@ -1,5 +1,5 @@
 summary: Nanomsg-next-generation -- light-weight brokerless messaging
 webpage: https://nng.nanomsg.org
 version: 2.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libnng-2.1.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: a5405440d4cb4df94f4ea1e69e4742c98dc2a678edf3a7d775cb94633e59696c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libnng-2.1.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: d2a54241b62a7632ca04ba0ca34b0498aaf1efee48e6854bdcc326f838999f9e

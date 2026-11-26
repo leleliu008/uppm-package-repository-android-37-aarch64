@@ -1,5 +1,5 @@
 summary: A simple, small, efficient, C++ XML parser library
 webpage: https://leethomason.github.io/tinyxml2/
 version: 11.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libtinyxml2-11.0.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: e4c36227fb514ada5bd52c245a5060200ecd356144f6f9c65f6deddfe514304f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libtinyxml2-11.0.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2cf305b6f779d06f1de9f52cc665152fbdc46dfa7bbf37f6862768e7b0494676

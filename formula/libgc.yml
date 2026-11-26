@@ -1,5 +1,5 @@
 summary: Garbage collector for C and C++
 webpage: https://www.hboehm.info/gc/
 version: 8.2.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libgc-8.2.12-android-37-arm64-v8a.release.tar.xz
-bin-sha: 8fa9835c1a99a4e5602596769809a52e241b862b02e09361e0d0d9f723eeb29d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libgc-8.2.12-android-37-arm64-v8a.release.tar.xz
+bin-sha: 4c00f462a43eb164ddd0d391e587b203fca1127feacdbc7a75c32e4c19293d6e

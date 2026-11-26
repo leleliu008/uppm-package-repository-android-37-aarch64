@@ -1,5 +1,5 @@
 summary: NUMA support for Linux
 webpage: https://github.com/numactl/numactl
 version: 2.0.19
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/numactl-2.0.19-android-37-arm64-v8a.release.tar.xz
-bin-sha: e9fffd247b29b3976a093fcd3a47fedf8acf312b9163db9ca2c1977b004546cd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/numactl-2.0.19-android-37-arm64-v8a.release.tar.xz
+bin-sha: 3fca7f26bbe903888f3ad73bc3185f5774f73fa6691c20eac725cb3cb48d0487

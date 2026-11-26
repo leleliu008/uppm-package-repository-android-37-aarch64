@@ -1,5 +1,5 @@
 summary: A free, general-purpose data compression with a high compression ratio
 webpage: https://tukaani.org/xz
 version: 5.8.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/liblzma-5.8.4-android-37-arm64-v8a.release.tar.xz
-bin-sha: ca9ccf12dbfe42cf5104dad22a4351c933b0a4c3aeee512160e8e33cfdbb5805
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/liblzma-5.8.4-android-37-arm64-v8a.release.tar.xz
+bin-sha: 4c9347d69a8bfc287cf57581f85c526014ff4283f340b6b64a7a2291df02c399

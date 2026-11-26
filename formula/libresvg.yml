@@ -1,5 +1,5 @@
 summary: C library to convert SVG to PNG
 webpage: https://github.com/RazrFalcon/resvg
 version: 0.50.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libresvg-0.50.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 8436610347f5987a46e6c6ea56655946214a2b12cd2bcc22af8d77aa09e4b9de
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libresvg-0.50.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: f549c9df45d7fa82bbbfd030a02589aee3e4281b0056f9d74052efe323f08912

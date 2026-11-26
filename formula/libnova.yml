@@ -1,5 +1,5 @@
 summary: A general purpose, double precision, Celestial Mechanics, Astrometry and Astrodynamics library
 webpage: https://libnova.sourceforge.net/
 version: 0.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libnova-0.16-android-37-arm64-v8a.release.tar.xz
-bin-sha: 4c46127a05c0cd3fb603ef9f80778222b325c1c6c1c63947c3552e7fe9faa676
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libnova-0.16-android-37-arm64-v8a.release.tar.xz
+bin-sha: 0e57481a6d370fd96eb15ff682fb7142f33b9de796a52d4af47fe2636ebc2d69

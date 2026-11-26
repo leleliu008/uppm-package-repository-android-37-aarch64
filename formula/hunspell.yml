@@ -1,5 +1,5 @@
 summary: A command-line tool for spelling checking and morphological analysing
 webpage: https://hunspell.github.io
 version: 1.7.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/hunspell-1.7.6-android-37-arm64-v8a.release.tar.xz
-bin-sha: 5aaa407dfb3c0f2b4cec3333e6c67e36fde4d03fc1f4100e0206bf2e5488bee5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/hunspell-1.7.6-android-37-arm64-v8a.release.tar.xz
+bin-sha: c8d30a108cfac3b13d6a654f5c12832bfeaba954729ee4bdad2afb4b49f6bba3

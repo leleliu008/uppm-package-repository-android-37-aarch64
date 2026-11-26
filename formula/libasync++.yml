@@ -1,5 +1,5 @@
 summary: A lightweight concurrency framework for C++11
 webpage: https://github.com/Amanieu/asyncplusplus
 version: 1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libasync++-1.2-android-37-arm64-v8a.release.tar.xz
-bin-sha: 87eb34093c74c6865167a1b20f2b37d78bdf4d6bb53763743d3860ed08438c8e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libasync++-1.2-android-37-arm64-v8a.release.tar.xz
+bin-sha: c7a210f418fcdf00e5935111b42a7f33d70557bdc08efef5e71fa65565fa6a5b

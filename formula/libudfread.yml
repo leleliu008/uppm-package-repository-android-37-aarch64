@@ -1,5 +1,5 @@
 summary: Universal Disk Format reader
 webpage: https://code.videolan.org/videolan/libudfread
 version: 1.2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libudfread-1.2.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 1247f0af57cb687f8b901360727b83816cd72062bcf65f3b2c69a86892534f3e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libudfread-1.2.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: fe155c6eb8b3191bb84777ffbfb34145633fca9bc38db1986fc55ec76c60ccb1

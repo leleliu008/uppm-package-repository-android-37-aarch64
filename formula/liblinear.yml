@@ -1,5 +1,5 @@
 summary: Library for large linear classification
-webpage: https://www.csie.ntu.edu.tw/~cjlin/liblinear/
+webpage: https://github.com/cjlin1/liblinear
 version: 2.50
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/liblinear-2.50-android-37-arm64-v8a.release.tar.xz
-bin-sha: 1549e1bb0ecfa43503adfb33b145c4b5b429e48f23cc99197e71d232804fccbc
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/liblinear-2.50-android-37-arm64-v8a.release.tar.xz
+bin-sha: 222c40c43e9e71b6efcdb72659fd31445e3e567647ee7addc2059f7412b08520

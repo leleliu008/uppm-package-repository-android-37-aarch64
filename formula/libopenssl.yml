@@ -1,5 +1,5 @@
 summary: Cryptography and SSL/TLS library
 webpage: https://openssl-library.org/
 version: 4.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libopenssl-4.1.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: 04d165a4f7d4035be0eb66ba5c5c202bab9bcb115ecf7817626d530156177296
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libopenssl-4.1.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 5eaeeb5d2bd33990ad392444b5cd56a76f555685ba5512e32c1ce3d7079e759b

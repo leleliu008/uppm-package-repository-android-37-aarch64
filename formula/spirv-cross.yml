@@ -1,5 +1,5 @@
 summary: Performing reflection and disassembling SPIR-V
 webpage: https://github.com/KhronosGroup/SPIRV-Cross
 version: 1.4.363.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/spirv-cross-1.4.363.0-android-37-arm64-v8a.release.tar.xz
-bin-sha: effa4ce6e43ca2c08b228d4df5762052053defce9ed5a1044918888ebe127979
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/spirv-cross-1.4.363.0-android-37-arm64-v8a.release.tar.xz
+bin-sha: 51baa15b4a3200766fcb066878820004d9e7d058aecc822257ecd30eee3aff64

@@ -1,5 +1,5 @@
 summary: Apply a diff file to an original
 webpage: https://www.gnu.org/software/patch
 version: 2.8.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/patch-2.8.1-android-37-arm64-v8a.release.tar.xz
-bin-sha: 90dd287bc42a65abf970b6a386e7149d3695891ea6e3d813b9649db23294542f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/patch-2.8.1-android-37-arm64-v8a.release.tar.xz
+bin-sha: 1bdfab7a089b390ec6d5473c44e28ef32a80f206d29e41f0f84e33db3e525974

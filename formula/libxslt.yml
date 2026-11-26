@@ -1,5 +1,5 @@
 summary: C XSLT library for GNOME
 webpage: https://gitlab.gnome.org/GNOME/libxslt
 version: 1.1.45
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.17.1/libxslt-1.1.45-android-37-arm64-v8a.release.tar.xz
-bin-sha: f2f058f2fb73058148d7fd8fe4ee8a5a31ad233c2f6a5f89f9f90d70d8f441c0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-37-aarch64/releases/download/2026.11.26.1/libxslt-1.1.45-android-37-arm64-v8a.release.tar.xz
+bin-sha: 2b63d09f6f054b0fc74a1a0ef7e355ce3e70c0c36c97f3663b887276e2c217d3
